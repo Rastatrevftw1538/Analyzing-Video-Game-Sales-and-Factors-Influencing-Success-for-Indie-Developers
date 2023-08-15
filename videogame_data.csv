@@ -1,0 +1,1205 @@
+name,total_shipped,genres,themes,game_engines,age_ratings
+grand theft auto: san andreas,17.3,"['shooter', 'racing', 'adventure']","['action', 'open world']",renderware,m
+grand theft auto v,20.32,"['shooter', 'adventure']","['action', 'comedy', 'sandbox', 'open world']",rage,m
+grand theft auto: vice city,16.15,"['shooter', 'racing', 'adventure', 'arcade']","['action', 'comedy', 'sandbox', 'open world']",renderware,m
+gran turismo 3: a-spec,14.89,"['racing', 'simulator']",['non-fiction'],custom built engine,e
+call of duty: modern warfare 3,14.82,"['shooter', 'tactical', 'adventure']","['action', 'warfare']",iw engine,m
+call of duty: black ops,14.74,['shooter'],"['action', 'horror', 'survival', 'historical', 'warfare']",iw engine,m
+red dead redemption 2,13.94,"['shooter', 'role-playing (rpg)', 'adventure']","['action', 'drama', 'open world']",rage,m
+call of duty: black ops ii,13.86,['shooter'],"['action', 'science fiction', 'warfare']",iw engine,m
+call of duty: modern warfare 2,13.53,['shooter'],"['action', 'stealth', 'warfare']",iw engine,m
+call of duty: wwii,13.4,['shooter'],"['action', 'historical', 'warfare']",in house engine,m
+grand theft auto iii,13.1,"['shooter', 'racing', 'simulator', 'adventure']","['action', 'sandbox', 'open world']",renderware,m
+mario kart 8 deluxe,55.46,"['racing', 'arcade']","['action', 'fantasy', 'kids', 'party']",autodesk beast,e
+super smash bros. brawl,13.32,"['fighting', 'platform']",['action'],havok physics,t
+super mario 64,11.91,"['platform', 'adventure']","['action', 'sandbox', 'kids']",super mario 64 engine,e
+fifa 18,11.8,['sport'],['non-fiction'],frostbite,e
+gran turismo 4,11.76,"['racing', 'simulator']",['action'],custom built engine,e
+grand theft auto iv,11.09,"['shooter', 'racing', 'adventure']","['action', 'open world']",rage,m
+gran turismo,10.85,"['racing', 'simulator']",['non-fiction'],custom built engine,e
+fifa 17,10.94,['sport'],['non-fiction'],ignite engine,e
+call of duty: ghosts,10.41,['shooter'],"['action', 'science fiction', 'thriller', 'survival', 'stealth', 'warfare']",iw engine,m
+halo: reach,9.97,['shooter'],"['action', 'science fiction', 'warfare']",havok physics,m
+halo 4,9.96,['shooter'],"['action', 'science fiction', 'warfare']",halo reach,m
+minecraft,13.0,"['simulator', 'adventure']","['fantasy', 'survival', 'sandbox', 'kids', 'open world']",lightweight java game library,e10
+the legend of zelda: breath of the wild,30.65,"['puzzle', 'role-playing (rpg)', 'adventure']","['action', 'fantasy', 'science fiction', 'survival', 'drama', 'sandbox', 'open world']",havok physics,e10
+call of duty 4: modern warfare,9.41,"['shooter', 'simulator']","['action', 'warfare']",iw engine,m
+fifa 19,9.15,['sport'],['non-fiction'],frostbite,e
+the elder scrolls v: skyrim,8.88,"['role-playing (rpg)', 'adventure']","['action', 'fantasy', 'stealth', 'sandbox', 'open world']",creation engine,m
+marvel's spider-man,20.0,"[""hack and slash/beat 'em up"", 'adventure']","['action', 'stealth', 'drama', 'open world']",insomniac engine v.4.0,t
+halo 2,8.0,['shooter'],"['action', 'science fiction']",havok physics,m
+call of duty: infinite warfare,8.48,"['shooter', 'adventure']","['action', 'science fiction', 'warfare']",iw engine,m
+fallout 4,8.48,"['shooter', 'role-playing (rpg)']","['action', 'science fiction', 'survival', 'sandbox', 'open world']",creation engine,m
+fifa 16,8.22,['sport'],['non-fiction'],ignite engine,e
+goldeneye 007,8.09,['shooter'],['action'],enginex,t
+the sims 3,7.96,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims 3 engine,t
+call of duty: advanced warfare,7.53,['shooter'],"['action', 'science fiction', 'warfare']",in-house engine,m
+call of duty: world at war,7.5,"['shooter', 'adventure']","['action', 'horror', 'survival', 'historical', 'warfare']",iw engine,m
+battlefield 3,7.35,['shooter'],"['action', 'warfare']",frostbite,m
+battlefield 1,7.26,['shooter'],"['action', 'historical', 'warfare']",frostbite,m
+uncharted 3: drake's deception,9.3,"['shooter', 'platform', 'adventure']","['action', 'fantasy', 'historical']",naughty dog engine,t
+the last of us remastered,11.78,"['shooter', 'adventure']","['action', 'horror', 'survival', 'stealth']",proprietry in house engine,m
+gears of war 2,5.0,['shooter'],"['action', 'science fiction']",unreal engine,m
+uncharted 2: among thieves,6.74,"['shooter', 'platform', 'adventure']","['action', 'fantasy', 'historical']",naughty dog engine,t
+fifa 14,6.61,['sport'],['non-fiction'],impact engine,e
+red dead redemption,6.57,"['shooter', 'role-playing (rpg)', 'adventure']","['action', 'sandbox', 'open world']",rage,m
+assassin's creed iii,6.5,"['strategy', 'adventure']","['action', 'fantasy', 'science fiction', 'historical', 'stealth', 'sandbox', 'open world']",anvilnext,m
+halo: combat evolved,5.0,['shooter'],"['action', 'science fiction']",blam! engine,m
+halo 3: odst,3.0,['shooter'],"['action', 'science fiction', 'warfare']",halo 3,m
+fifa 15,6.32,['sport'],['non-fiction'],ignite engine,e
+gears of war 3,3.0,['shooter'],"['action', 'science fiction', 'horror']",unreal engine,m
+gears of war,5.0,['shooter'],"['action', 'science fiction', 'horror']",unreal engine,m
+sonic the hedgehog 2,6.0,"['platform', 'adventure', 'arcade']","['action', 'science fiction']",custom built engine,e
+resident evil 2,4.96,"['shooter', 'adventure']","['action', 'horror', 'survival']",re engine,m
+destiny,5.76,"['shooter', 'role-playing (rpg)']","['action', 'science fiction', 'warfare']",tiger,t
+uncharted: the nathan drake collection,5.7,"['shooter', 'platform', 'adventure']","['action', 'fantasy', 'historical']",naughty dog engine,t
+assassin's creed ii,5.57,"['platform', 'adventure']","['action', 'fantasy', 'science fiction', 'historical', 'stealth', 'sandbox', 'open world']",anvil,m
+batman: arkham city,5.54,"[""hack and slash/beat 'em up"", 'adventure']","['action', 'stealth', 'open world']",unreal engine,t
+the witcher 3: wild hunt,12.4,"['role-playing (rpg)', 'adventure']","['action', 'fantasy', 'open world']",redengine,m
+final fantasy xiii,5.35,"['role-playing (rpg)', 'adventure']","['action', 'fantasy']",crystal tools,t
+microsoft flight simulator,5.12,['simulator'],['non-fiction'],ftech x,e
+resident evil 5,5.1,"['shooter', 'puzzle', 'adventure']","['action', 'horror', 'survival']",mt framework,m
+grand theft auto: vice city stories,5.08,"['racing', 'adventure']","['action', 'sandbox', 'open world']",renderware,m
+super smash bros. for wii u,5.38,"['fighting', 'platform']","['action', 'party']",havok,e10
+final fantasy xv,5.07,"['role-playing (rpg)', 'adventure']","['action', 'fantasy', 'science fiction', 'survival', 'sandbox', 'open world']",luminous studio,t
+fallout 3,4.96,"['shooter', 'role-playing (rpg)']","['action', 'science fiction', 'survival', 'sandbox', 'open world']",gamebryo,m
+crash bandicoot n. sane trilogy,4.83,"['platform', 'adventure']","['action', 'fantasy', 'science fiction', 'historical']",vicarious visions alchemy,e10
+the simpsons: hit & run,4.7,"['platform', 'racing', 'adventure']","['action', 'comedy']",pure3d,t
+tony hawk's pro skater 2,4.68,"['simulator', 'sport']","['action', 'sandbox']",unreal engine,t
+monster hunter: world,4.0,"['role-playing (rpg)', 'adventure']","['action', 'fantasy']",mt framework,t
+tomb raider,4.63,"['shooter', 'platform', 'puzzle', 'adventure']","['action', 'survival', 'sandbox']",core design,t
+overwatch,4.54,"['shooter', 'strategy']","['action', 'science fiction', 'comedy']",proprietary engine,t
+the elder scrolls iv: oblivion,4.47,"['role-playing (rpg)', 'adventure']","['action', 'fantasy', 'historical', 'sandbox', 'open world']",gamebryo,m
+tom clancy's the division,4.37,"['shooter', 'role-playing (rpg)', 'strategy', 'tactical', 'adventure']","['action', 'science fiction', 'survival', 'sandbox', 'warfare']",snowdrop,m
+need for speed: most wanted,4.37,"['racing', 'adventure']","['action', 'open world']",chameleon,e10
+resistance: fall of man,2.12,"['shooter', 'adventure']","['action', 'fantasy', 'science fiction', 'horror', 'historical', 'warfare']",insomniac engine,m
+sonic the hedgehog,15.0,"['platform', 'adventure']","['action', 'science fiction', 'educational']",havok physics,e10
+watch dogs,4.32,"['shooter', 'adventure']","['action', 'science fiction', 'stealth', 'sandbox', 'open world']",disrupt,m
+batman: arkham asylum,4.28,"[""hack and slash/beat 'em up"", 'adventure']","['action', 'stealth']",unreal engine,t
+gran turismo 5 prologue,5.35,"['racing', 'simulator']",['non-fiction'],custom built engine,e
+street fighter iv,4.19,['fighting'],['action'],taito type x,t
+teenage mutant ninja turtles,4.17,"[""hack and slash/beat 'em up""]",['action'],renderware,e
+destiny 2,4.14,"['shooter', 'role-playing (rpg)', 'adventure']","['action', 'fantasy', 'science fiction', 'open world', 'warfare']",tiger,t
+half-life,9.3,"['shooter', 'puzzle', 'adventure']","['action', 'science fiction', 'horror', 'thriller', 'warfare']",goldsrc,m
+the sims 4,4.1,"['role-playing (rpg)', 'simulator']","['action', 'fantasy', 'comedy', 'sandbox', 'romance']",smartsim,t
+fallout: new vegas,4.08,"['shooter', 'role-playing (rpg)']","['action', 'science fiction', 'survival', 'sandbox', 'open world']",gamebryo,m
+god of war ii,4.24,"['platform', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy', 'historical']",kinetica,m
+assassin's creed origins,4.06,"['role-playing (rpg)', 'adventure']","['action', 'historical', 'stealth', 'open world']",anvilnext,m
+far cry 4,4.06,"['shooter', 'tactical', 'adventure']","['action', 'historical', 'sandbox', 'open world', 'warfare']",dunia engine,m
+left 4 dead 2,3.0,['shooter'],"['action', 'horror', 'survival']",source,m
+far cry 5,3.95,"['shooter', 'adventure']","['action', 'open world']",dunia engine,m
+battlefield 4,3.94,['shooter'],"['action', 'warfare']",frostbite,m
+gran turismo sport,3.77,"['racing', 'simulator', 'sport']",['non-fiction'],custom built engine,e
+the sims: unleashed,3.76,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims engine,t
+harry potter and the sorcerer's stone,8.0,"['platform', 'puzzle', 'role-playing (rpg)', 'adventure']","['action', 'fantasy']",unreal engine,e
+resident evil 3: nemesis,3.5,"['shooter', 'puzzle', 'adventure']","['horror', 'survival']",re engine,m
+jak and daxter: the precursor legacy,3.64,"['platform', 'adventure']","['action', 'comedy']",kinetica,e10
+resident evil 4,2.3,"['shooter', 'puzzle', 'adventure']","['action', 'horror', 'mystery']",re engine,m
+gears of war: ultimate edition,1.0,['shooter'],"['action', 'science fiction', 'horror']",unreal engine 3,m
+star wars battlefront,3.61,['shooter'],"['action', 'science fiction']",frostbite,t
+assassin's creed syndicate,3.6,['adventure'],"['action', 'fantasy', 'science fiction', 'historical', 'stealth', 'open world']",anvilnext,m
+star wars battlefront ii,3.59,"['shooter', 'adventure']","['action', 'fantasy', 'science fiction']",frostbite,t
+the getaway,3.54,"['shooter', 'racing']","['action', 'open world']",kinetica,m
+gran turismo 6,5.22,"['racing', 'simulator', 'sport']",['non-fiction'],custom built engine,e
+james bond 007: agent under fire,3.53,['shooter'],['action'],id tech 3,t
+left 4 dead,3.0,['shooter'],"['action', 'horror', 'survival']",source,m
+mortal kombat x,3.49,['fighting'],['action'],unreal engine,m
+battlefield: bad company 2,3.48,"['shooter', 'simulator', 'strategy', 'adventure']","['action', 'warfare']",frostbite,m
+borderlands,3.48,"['shooter', 'role-playing (rpg)']","['action', 'science fiction', 'open world']",unreal engine,m
+halo: the master chief collection,3.44,['shooter'],"['action', 'science fiction', 'warfare']",halo reach,m
+grand theft auto 2,3.42,"['shooter', 'racing']","['action', 'open world']",renderware,m
+spider-man 2,3.41,"[""hack and slash/beat 'em up"", 'adventure']","['action', 'science fiction']",unreal engine 2,t
+gears of war 4,3.38,['shooter'],"['action', 'science fiction', 'horror']",unreal engine,m
+watch dogs 2,3.36,"['shooter', 'adventure']","['action', 'science fiction', 'stealth', 'sandbox', 'open world']",disrupt,m
+the legend of zelda: majora's mask,3.36,['adventure'],"['action', 'fantasy', 'horror', 'open world']",super mario 64 engine,e
+ratchet & clank,3.71,"['shooter', 'platform', 'adventure']","['action', 'science fiction', 'comedy']",kinetica,e10
+madden nfl 16,3.3,['sport'],['action'],ignite engine,e
+madden nfl 17,3.28,['sport'],['non-fiction'],ignite engine,e
+far cry 3,3.27,"['shooter', 'adventure']","['action', 'survival', 'stealth', 'sandbox', 'open world']",dunia engine,m
+killer instinct,3.2,['fighting'],['action'],slayer,t
+middle-earth: shadow of mordor,2.88,"['role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy', 'stealth', 'open world']",lithtech,m
+spider-man,3.13,"['platform', 'adventure']","['action', 'science fiction']",treyarch ngl,e
+resident evil 6,3.12,"['shooter', 'adventure']","['action', 'horror', 'survival']",mt framework,m
+titanfall,3.11,['shooter'],"['action', 'science fiction']",source,m
+saints row 2,3.07,"['shooter', 'racing', 'adventure']","['action', 'comedy', 'sandbox', 'open world']",havok,m
+the sims: vacation,3.07,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims engine,t
+heavy rain,3.0,['adventure'],"['action', 'thriller', 'drama', 'mystery']",havok,m
+borderlands 2,3.06,"['shooter', 'role-playing (rpg)']","['action', 'science fiction', 'comedy', 'sandbox']",unreal engine,m
+kung fu panda,3.05,"['platform', ""hack and slash/beat 'em up"", 'adventure']","['action', 'comedy']",lux engine,e10
+mass effect 3,3.04,"['shooter', 'role-playing (rpg)', 'adventure']","['action', 'science fiction']",unreal engine 3,m
+metal gear solid v: the phantom pain,3.04,"['shooter', 'tactical', 'adventure']","['action', 'fantasy', 'historical', 'stealth', 'open world']",fox engine,m
+tom clancy's splinter cell,3.02,"['shooter', 'tactical']","['action', 'stealth']",unreal engine 2,t
+killzone: shadow fall,2.1,['shooter'],"['action', 'science fiction', 'warfare']",decima,m
+star wars: the old republic,2.0,['role-playing (rpg)'],"['fantasy', 'science fiction']",heroengine,t
+sonic heroes,3.16,"['platform', 'adventure']",['action'],renderware,e
+hitman 2: silent assassin,2.96,"['shooter', 'tactical']","['action', 'science fiction', 'stealth']",glacier,m
+socom ii: u.s. navy seals,1.0,"['shooter', 'simulator', 'strategy', 'tactical']","['action', 'warfare']",kinetica,m
+mass effect,2.91,"['shooter', 'role-playing (rpg)']","['action', 'science fiction']",unreal engine 3,m
+sega superstars tennis,2.89,['sport'],['party'],sunshine engine,e10
+call of duty: finest hour,2.89,['shooter'],"['action', 'historical', 'warfare']",renderware,t
+mafia iii,2.87,"['shooter', 'racing', 'adventure']","['action', 'drama', 'open world']",fusion engine,m
+the elder scrolls iii: morrowind,2.86,"['role-playing (rpg)', 'adventure']","['action', 'fantasy', 'sandbox', 'open world']",gamebryo,t
+myst,6.3,"['point-and-click', 'puzzle', 'strategy', 'adventure', 'indie']","['fantasy', 'mystery']",mohawk,e
+killzone 3,2.81,['shooter'],"['action', 'science fiction', 'warfare']",in-house engine,m
+skylanders: spyro's adventure,2.79,['platform'],['historical'],lux engine,e10
+jak ii,1.6,"['shooter', 'platform', 'adventure']","['action', 'science fiction', 'comedy']",kinetica,t
+the sims,2.77,['simulator'],"['fantasy', 'comedy', 'sandbox', 'romance']",the sims engine,t
+star wars: the force unleashed,2.77,"['role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy', 'science fiction']",ronin,t
+saints row: the third,2.77,"['shooter', 'racing', 'adventure']","['action', 'comedy', 'sandbox', 'open world']",havok,m
+tekken 6,3.12,['fighting'],['action'],octave engine,t
+sonic and the secret rings,3.0,['platform'],['action'],renderware,e
+far cry: primal,2.73,"['shooter', 'adventure']","['action', 'survival', 'historical', 'open world']",dunia engine,m
+call of duty 3,2.7,['shooter'],"['action', 'historical', 'warfare']",treyarch ngl,t
+burnout 3: takedown,2.68,['racing'],['action'],renderware,t
+halo wars,1.0,"['real time strategy (rts)', 'strategy']","['science fiction', 'warfare']",havok physics,t
+call of duty 2: big red one,2.67,['shooter'],"['action', 'historical', 'warfare']",treyarch ngl,t
+fable,3.0,"['role-playing (rpg)', 'adventure']","['action', 'fantasy', 'historical', 'sandbox']",gamebryo,m
+final fantasy xiii-2,2.66,"['real time strategy (rts)', 'role-playing (rpg)', 'adventure']","['fantasy', 'science fiction']",crystal tools,t
+madden nfl 18,2.62,['sport'],['non-fiction'],frostbite,e
+harry potter and the chamber of secrets,2.61,"['platform', 'adventure']","['action', 'fantasy']",unreal engine,e
+god of war collection,2.42,"[""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy', 'historical']",kinetica,m
+dragon age: origins,2.56,['role-playing (rpg)'],"['action', 'fantasy']",eclipse engine,m
+midnight club: los angeles,2.5,"['racing', 'arcade']",['open world'],rage,t
+marvel: ultimate alliance,2.5,"['role-playing (rpg)', 'adventure']","['action', 'science fiction']",vicarious visions alchemy,t
+resistance 2,2.47,['shooter'],"['action', 'fantasy', 'science fiction', 'horror', 'survival', 'historical']",insomniac engine,m
+dying light,2.45,"['shooter', 'role-playing (rpg)', 'adventure']","['action', 'horror', 'survival', 'stealth', 'open world']",chrome engine,m
+ice hockey,2.42,['sport'],['action'],proprietary engine,e
+tom clancy's rainbow six: vegas 2,2.42,"['shooter', 'strategy', 'tactical']","['action', 'warfare']",unreal engine 3,m
+halo: combat evolved anniversary,2.41,['shooter'],"['action', 'science fiction', 'warfare']",blam! engine,m
+batman: arkham origins,2.4,"[""hack and slash/beat 'em up"", 'adventure']","['action', 'stealth', 'open world']",unreal engine,t
+dead island,2.38,"['shooter', ""hack and slash/beat 'em up""]","['action', 'horror', 'survival']",chrome engine,m
+half-life 2,12.0,['shooter'],"['action', 'science fiction', 'horror']",source,m
+guild wars 2,7.0,"['role-playing (rpg)', 'adventure']",['fantasy'],arenanet guild wars,t
+dragon age: inquisition,2.34,"['role-playing (rpg)', 'tactical', 'adventure']","['action', 'fantasy', 'historical']",frostbite 3,m
+madden nfl 25,2.33,"['sport', 'tactical']",['non-fiction'],ignite engine,e
+james bond 007: everything or nothing,2.31,"['shooter', 'sport', 'adventure']",['action'],id tech 3,t
+no man's sky,2.26,"['role-playing (rpg)', 'simulator', 'adventure', 'indie']","['action', 'science fiction', 'survival', 'sandbox', 'open world']",custom built engine,t
+paper mario: the thousand-year door,1.91,"['role-playing (rpg)', 'turn-based strategy (tbs)', 'quiz/trivia', 'adventure']","['action', 'fantasy', 'science fiction', 'comedy']",in-house engine,e
+madden nfl 15,2.25,"['simulator', 'sport']",['action'],ignite engine,e
+dance dance revolution x2,2.23,"['music', 'arcade']",['party'],bemani pc type 4,e10
+battlefield v,2.22,['shooter'],"['action', 'historical', 'warfare']",frostbite 3,m
+prince of persia: the sands of time,2.22,"['platform', 'adventure']",['action'],jade,t
+bioshock 2,2.2,"['shooter', 'puzzle', 'role-playing (rpg)', 'adventure']","['action', 'science fiction', 'thriller']",unreal engine,m
+star wars: knights of the old republic,2.19,"['role-playing (rpg)', 'adventure']","['action', 'science fiction']",odyssey,t
+need for speed: payback,2.18,"['racing', 'sport']","['action', 'open world']",frostbite 3,t
+spyro reignited trilogy,2.17,"['platform', 'adventure']","['action', 'fantasy']",unreal engine 4,e10
+scribblenauts,1.0,['puzzle'],"['sandbox', 'educational', 'kids']",objectnaut,e10
+sonic unleashed,1.6,"['platform', ""hack and slash/beat 'em up"", 'adventure']",['action'],j2me,e10
+the sims: house party,2.16,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims engine,t
+need for speed: hot pursuit 2,2.11,['racing'],['action'],eagl,e
+dead rising,1.8,"[""hack and slash/beat 'em up"", 'adventure']","['action', 'horror', 'survival', 'comedy', 'sandbox']",mt framework,m
+portal 2,2.08,"['shooter', 'platform', 'puzzle', 'adventure']","['action', 'science fiction', 'comedy']",source,e10
+the sims 2: pets,2.07,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims 2 engine,e
+rise of the tomb raider,2.07,"['shooter', 'adventure']","['action', 'survival', 'stealth', 'open world']",foundation engine,m
+call of duty 2,2.06,['shooter'],"['action', 'historical', 'warfare']",iw engine,t
+hitman: absolution,2.06,"['shooter', 'tactical', 'adventure']","['action', 'stealth']",glacier 2,m
+tom clancy's splinter cell: conviction,2.06,"['shooter', 'tactical']","['action', 'stealth']",lead engine,m
+need for speed: undercover,2.06,"['racing', 'arcade']","['action', 'open world']",eagl,t
+middle-earth: shadow of war,2.04,"['role-playing (rpg)', 'adventure']","['action', 'fantasy', 'open world']",firebird engine,m
+peter jackson's king kong: the official game of the movie,2.04,"['fighting', 'shooter', 'puzzle', 'adventure']",['action'],jade,t
+dragon quest xi: echoes of an elusive age,2.04,['role-playing (rpg)'],"['fantasy', 'open world']",unreal engine,t
+rocket league,2.02,"['racing', 'sport', 'indie']","['action', 'science fiction']",unreal engine,e
+need for speed: the run,2.01,['racing'],['action'],frostbite 2,t
+dead space,2.0,"['shooter', 'role-playing (rpg)', 'adventure']","['action', 'science fiction', 'horror', 'survival']",frostbite 3,m
+simcity,1.98,"['simulator', 'strategy']","['business', 'sandbox']",glassbox,e10
+bioshock infinite,1.97,"['shooter', 'adventure']","['action', 'fantasy', 'science fiction', 'horror', 'historical', 'drama']",unreal engine,m
+dishonored 2,1.97,"['shooter', 'role-playing (rpg)', 'adventure']","['action', 'stealth']",void engine,m
+tom clancy's rainbow six: vegas,1.95,"['shooter', 'tactical']","['action', 'stealth', 'warfare']",unreal engine,m
+star wars: dark forces,1.95,['shooter'],"['action', 'science fiction']",jedi,t
+burnout paradise,1.95,['racing'],"['action', 'sandbox', 'open world']",renderware,e10
+tom clancy's ghost recon,1.94,"['shooter', 'simulator', 'strategy', 'tactical', 'adventure']","['action', 'warfare']",ubisoft anvil,m
+the sims: makin' magic,1.92,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims engine,t
+shrek 2,1.86,"['platform', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy', 'kids']",unreal engine 2,e
+turok 2: seeds of evil,1.5,"['shooter', 'platform', 'adventure']","['action', 'fantasy', 'science fiction']",kex,m
+the evil within,1.86,"['shooter', 'puzzle', 'adventure']","['action', 'horror', 'survival']",id tech 5,m
+max payne 3,1.86,['shooter'],"['action', 'thriller', 'sandbox']",rage,m
+jak 3,1.85,"['shooter', 'platform', 'adventure']","['action', 'science fiction', 'comedy']",kinetica,t
+rayman raving rabbids 2,1.84,"['music', 'platform', 'puzzle']","['action', 'comedy', 'party']",jade,e10
+secret of mana,1.83,"['role-playing (rpg)', 'adventure']","['action', 'fantasy']",phyreengine,e10
+demon's souls,1.0,"['role-playing (rpg)', 'adventure']","['action', 'fantasy']",bluepoint engine,m
+the sims: hot date,1.82,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims engine,t
+virtua fighter 4,1.68,['fighting'],['action'],sega naomi,t
+sly 2: band of thieves,1.81,"['platform', 'adventure']","['action', 'stealth', 'comedy']",kinetica,e
+metroid prime 3: corruption,1.41,"['shooter', 'platform', 'adventure']","['action', 'science fiction']",rude,t
+the crew,1.79,"['racing', 'adventure']","['action', 'open world']",babel engine,t
+the getaway: black monday,1.78,"['shooter', 'racing']","['action', 'open world']",kinetica,m
+dragon's dogma,1.76,"['role-playing (rpg)', ""hack and slash/beat 'em up""]","['action', 'fantasy', 'historical', 'sandbox']",mt framework,m
+the spongebob squarepants movie,1.76,"['platform', 'adventure']",['action'],renderware,e
+just cause 2,1.75,"['shooter', 'racing', 'adventure']","['action', 'sandbox', 'open world']",havok physics,m
+for honor,1.75,"['fighting', ""hack and slash/beat 'em up""]","['action', 'historical']",anvilnext,m
+crackdown,1.5,"['fighting', 'shooter', 'role-playing (rpg)', 'adventure']","['action', 'science fiction', 'sandbox']",havok physics,m
+dance dance revolution x,1.75,"['music', 'arcade']",['party'],bemani pc type 4,e10
+shadow of the tomb raider,1.74,"['shooter', 'adventure']","['action', 'survival', 'historical', 'stealth', 'mystery']",crystal engine,m
+sonic colors,1.8,"['platform', 'adventure']","['action', 'kids']",physx,e
+dishonored,1.72,"['puzzle', 'role-playing (rpg)', 'adventure']","['action', 'stealth']",unreal engine,m
+titanfall 2,1.72,"['shooter', 'adventure']","['action', 'science fiction']",source,m
+tekken 7,6.23,['fighting'],['action'],unreal engine 4,t
+sid meier's civilization v,8.0,"['simulator', 'strategy', 'turn-based strategy (tbs)']","['fantasy', 'science fiction', 'historical', 'warfare', '4x (explore, expand, exploit, and exterminate)']",firaxis lore,e10
+saints row iv,1.69,"['shooter', 'adventure']","['action', 'science fiction', 'comedy', 'sandbox', 'open world']",custom built engine,m
+the sims: superstar,1.68,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims engine,t
+spongebob squarepants: battle for bikini bottom,1.67,"['platform', 'adventure']","['action', 'comedy']",renderware,e
+prince of persia: warrior within,1.64,"['fighting', 'platform', 'adventure']",['action'],jade,m
+the order: 1886,1.62,"['shooter', 'adventure']","['action', 'fantasy', 'horror', 'historical']",rad engine 4.0,m
+wolfenstein: the new order,1.61,"['shooter', 'puzzle', 'adventure']","['action', 'fantasy', 'science fiction', 'historical', 'stealth', 'warfare']",id tech 5,m
+rage,1.6,"['shooter', 'racing']","['action', 'science fiction']",id tech 5,m
+gears of war: judgment,1.0,['shooter'],"['action', 'science fiction']",unreal engine,m
+sonic generations,1.59,"['platform', 'adventure']","['action', 'kids']",hedgehog engine,e
+far cry 2,1.59,"['shooter', 'adventure']","['action', 'sandbox', 'open world']",dunia engine,m
+final fantasy xiv online,1.45,"['role-playing (rpg)', 'strategy', 'adventure']","['fantasy', 'open world']",crystal tools,t
+soulcalibur iv,1.54,"['fighting', 'arcade']","['action', 'fantasy']",havok,t
+devil may cry 4,1.58,"[""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy', 'horror']",mt framework,m
+mafia ii,1.56,"['shooter', 'racing', 'adventure']","['action', 'fantasy', 'historical', 'sandbox']",the illusion engine,m
+guitar hero 5,1.55,['music'],['party'],gh engine,t
+ni no kuni: wrath of the white witch,1.33,"['role-playing (rpg)', 'adventure']","['action', 'fantasy', 'kids', 'open world']",havok,e10
+tom clancy's ghost recon advanced warfighter,0.8,"['shooter', 'simulator', 'strategy', 'tactical']","['action', 'warfare']",yeti,t
+super monkey ball 2,1.52,"['platform', 'arcade']","['action', 'party']",super monkey ball engine,e
+star wars: the force unleashed ii,1.51,"['role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy', 'science fiction']",ronin,t
+dragon ball: xenoverse 2,4.47,"['fighting', 'role-playing (rpg)', 'simulator', 'adventure']","['action', 'fantasy', 'science fiction']",unreal engine,t
+red faction ii,1.5,"['shooter', 'strategy', 'adventure']","['action', 'science fiction']",geo-mod,m
+rayman legends,1.5,"['platform', 'adventure']","['action', 'comedy']",ubiart framework,e10
+sonic cd,1.5,"['platform', 'adventure']","['action', 'fantasy', 'science fiction']",retro engine,e
+mass effect: andromeda,1.49,"['shooter', 'role-playing (rpg)', 'adventure']","['action', 'science fiction']",frostbite 3,m
+resistance 3,1.49,['shooter'],"['action', 'fantasy', 'science fiction', 'survival', 'historical']",insomniac engine,m
+tom clancy's ghost recon: future soldier,1.48,"['shooter', 'adventure']","['action', 'science fiction']",yeti,m
+assassin's creed iii: liberation,1.48,"['strategy', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy', 'science fiction', 'historical', 'stealth', 'sandbox', 'open world']",anvilnext,m
+tom clancy's splinter cell: pandora tomorrow,1.48,"['shooter', 'adventure']","['action', 'stealth']",java,t
+super scribblenauts,1.47,"['platform', 'puzzle']","['sandbox', 'kids']",objectnaut,e10
+ryse: son of rome,1.3,"[""hack and slash/beat 'em up"", 'adventure']","['action', 'historical']",cryengine,m
+super monkey ball,1.46,"['platform', 'arcade']",['party'],sega naomi,e
+dragon ball fighterz,4.31,['fighting'],"['action', 'fantasy', 'science fiction']",unreal engine,t
+red dead revolver,1.45,"['shooter', 'adventure']","['action', 'historical', 'sandbox']",rage,m
+sonic & sega all-stars racing,1.45,['racing'],"['comedy', 'kids']",sunshine engine,e10
+the house of the dead 2 & 3 return,1.45,['shooter'],['horror'],sega chihiro,m
+south park: the fractured but whole,1.43,"['role-playing (rpg)', 'strategy', 'adventure']","['action', 'comedy']",snowdrop,m
+medal of honor: warfighter,1.42,['shooter'],"['action', 'warfare']",frostbite,m
+rayman raving rabbids,1.42,"['platform', 'puzzle', 'adventure']","['action', 'comedy', 'party']",jade,e
+injustice: gods among us,1.42,"['fighting', 'adventure']",['action'],unreal engine 3,t
+twisted metal: black,1.41,"['shooter', 'racing']","['action', 'science fiction', 'horror', 'thriller', 'survival', 'comedy']",kinetica,m
+street fighter v,1.39,"['fighting', 'arcade']",['action'],unreal engine,t
+deus ex: human revolution,1.38,"['shooter', 'puzzle', 'role-playing (rpg)']","['action', 'science fiction', 'stealth']",crystal engine,m
+the sims 2,1.38,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims 2 engine,t
+crysis 2,1.37,"['shooter', 'adventure']","['action', 'science fiction', 'stealth']",cryengine,m
+wolfenstein ii: the new colossus,1.36,"['shooter', 'adventure']","['action', 'fantasy', 'science fiction', 'historical']",id tech 6,m
+marvel vs. capcom 3: fate of two worlds,1.36,['fighting'],['action'],mt framework,t
+super street fighter iv,1.15,['fighting'],['action'],taito type x,t
+f1 2010,1.34,"['racing', 'simulator', 'sport']",['non-fiction'],ego engine,e
+doom 3,1.34,['shooter'],"['action', 'horror', 'survival']",id tech 4,m
+max payne 2: the fall of max payne,1.34,['shooter'],"['action', 'thriller']",max-fx,m
+metroid prime 2: echoes,1.1,"['shooter', 'platform', 'puzzle', 'adventure']","['action', 'science fiction']",rude,t
+fallout 76,1.32,"['shooter', 'role-playing (rpg)']","['action', 'science fiction', 'survival', 'open world']",creation engine,m
+ea sports ufc 2,1.31,"['fighting', 'sport']",['action'],ignite engine,t
+manhunt,1.28,"['shooter', 'tactical']","['action', 'horror', 'thriller', 'stealth']",renderware,m
+the sims 2: nightlife,1.27,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims 2 engine,t
+rockstar games presents table tennis,1.26,"['simulator', 'sport']","['non-fiction', 'kids']",rage,e
+hyrule warriors,1.0,"['strategy', ""hack and slash/beat 'em up"", 'adventure']",['action'],amityville,t
+tomb raider: underworld,1.26,"['shooter', 'platform', 'adventure']","['action', 'historical']",crystal engine,t
+oddworld: abe's oddysee,1.24,"['platform', 'puzzle', 'adventure']","['action', 'science fiction', 'comedy']",a.l.i.v.e.,t
+super street fighter iv: 3d edition,1.3,['fighting'],['action'],mt framework,t
+medal of honor: airborne,1.21,['shooter'],"['action', 'historical', 'warfare']",unreal engine,t
+sly cooper and the thievius raccoonus,1.21,"['platform', 'adventure']","['action', 'stealth', 'comedy']",kinetica,e
+the lord of the rings: the fellowship of the ring,1.2,['adventure'],"['action', 'fantasy']",riot engine,t
+f1 2011,1.2,"['racing', 'simulator', 'sport']",['non-fiction'],ego engine,e
+metal gear solid v: ground zeroes,1.2,"['shooter', 'role-playing (rpg)', 'strategy', 'adventure']","['action', 'science fiction', 'stealth', 'open world']",fox engine,m
+minecraft: story mode,1.2,['adventure'],"['action', 'fantasy', 'comedy']",telltale tool,e10
+shadow of the colossus,1.2,"['platform', 'puzzle', 'adventure']","['action', 'fantasy', 'drama', 'open world']",bluepoint engine,t
+scarface: the world is yours,1.19,"['shooter', 'adventure']","['action', 'sandbox']",titanium,m
+resident evil: operation raccoon city,1.18,"['shooter', 'adventure']","['action', 'horror', 'survival']",hexane engine,m
+red dead redemption: undead nightmare,1.18,"['shooter', 'adventure']","['action', 'horror', 'sandbox', 'open world']",rage,m
+mirror's edge,1.16,"['shooter', 'platform', 'adventure']",['action'],unreal engine,t
+grand theft auto: the trilogy,1.14,"['racing', 'adventure']","['action', 'open world']",renderware,m
+the elder scrolls v: skyrim vr,1.13,"['role-playing (rpg)', 'adventure']","['action', 'fantasy', 'stealth', 'sandbox', 'open world']",creation engine,m
+dragon age ii,1.12,"['role-playing (rpg)', 'adventure']","['action', 'fantasy']",eclipse engine,m
+counter-strike,1.5,['shooter'],"['action', 'warfare']",goldsrc,m
+plants vs. zombies,1.11,"['puzzle', 'real time strategy (rts)', 'simulator', 'strategy', 'tactical']","['action', 'survival', 'comedy', 'kids']",popcap games framework,e10
+tom clancy's splinter cell: chaos theory,1.11,"['shooter', 'tactical']","['action', 'stealth']",unreal engine 2.5,m
+metal gear solid hd collection,1.11,"['strategy', 'tactical', 'adventure']","['action', 'stealth']",fox engine,m
+final fantasy xii: the zodiac age,1.2,"['role-playing (rpg)', 'adventure']","['action', 'fantasy', 'sandbox']",phyreengine,t
+lightning returns: final fantasy xiii,1.09,['role-playing (rpg)'],"['action', 'fantasy', 'science fiction']",crystal tools,t
+bully: scholarship edition,1.09,['adventure'],"['action', 'comedy', 'sandbox', 'open world']",gamebryo,t
+the godfather,1.09,"['shooter', 'racing', 'adventure']","['action', 'drama', 'open world']",godfather engine,m
+alien: isolation,1.09,['adventure'],"['action', 'science fiction', 'horror', 'survival', 'stealth']",cathode engine,m
+dante's inferno,1.08,"[""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy', 'horror']",visceral engine,m
+empire: total war,0.81,"['real time strategy (rts)', 'strategy', 'turn-based strategy (tbs)', 'tactical']","['fantasy', 'historical', '4x (explore, expand, exploit, and exterminate)']",tw engine 3,t
+prince of persia,1.07,"['platform', 'puzzle', 'adventure']","['action', 'historical']",scimitar,t
+dirt 3,1.06,"['racing', 'sport']",['non-fiction'],ego engine,t
+darksiders,1.06,"['role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy', 'open world']",phoenix engine (relic),m
+mercenaries 2: world in flames,1.06,['shooter'],"['action', 'comedy', 'sandbox', 'open world']",zero,t
+the evil within 2,1.05,"['shooter', 'role-playing (rpg)', 'adventure']","['action', 'horror', 'survival']",id tech 5,m
+forza motorsport,1.05,"['racing', 'simulator', 'sport']",['non-fiction'],forzatech,rp
+rocksmith 2014,1.05,['music'],['educational'],gamebryo,t
+sleeping dogs,1.04,"['shooter', ""hack and slash/beat 'em up"", 'adventure']","['action', 'sandbox', 'open world']",havok physics,m
+dance dance revolution supernova,1.04,"['music', 'arcade']",['party'],bemani python 2,e10
+brink,1.04,['shooter'],"['action', 'science fiction', 'comedy']",id tech 4,t
+tom clancy's ghost recon advanced warfighter 2,1.03,"['shooter', 'simulator', 'strategy', 'tactical']","['action', 'warfare']",yeti,t
+dead space 3,1.02,"['shooter', 'puzzle', 'adventure']","['action', 'science fiction', 'horror', 'survival']",visceral engine,m
+bulletstorm,1.02,['shooter'],"['action', 'science fiction', 'comedy']",unreal engine,m
+octopath traveler,1.9,"['role-playing (rpg)', 'adventure']",['fantasy'],unreal engine 4,t
+harry potter and the prisoner of azkaban,1.02,"['platform', 'role-playing (rpg)', 'adventure']","['action', 'fantasy']",renderware,e
+the elder scrolls online,1.02,"['role-playing (rpg)', 'adventure']","['action', 'fantasy', 'open world']",heroengine,m
+steep,1.01,"['simulator', 'sport', 'adventure']","['action', 'open world']",anvilnext,t
+f1 2012,1.01,"['racing', 'simulator', 'sport', 'strategy']",['non-fiction'],ego engine,e
+rayman origins,1.0,"['platform', 'adventure']","['action', 'fantasy', 'comedy', 'kids']",ubiart framework,e10
+tom clancy's splinter cell: blacklist,1.0,"['shooter', 'tactical', 'adventure']","['action', 'stealth']",lead engine,m
+oddworld: abe's exoddus,0.99,"['platform', 'puzzle', 'adventure']","['action', 'science fiction']",a.l.i.v.e.,t
+shadow the hedgehog,0.99,"['shooter', 'platform', 'adventure']","['action', 'science fiction']",renderware,e10
+playstation all-stars battle royale,0.99,"['fighting', 'platform', 'quiz/trivia']","['action', 'science fiction', 'party']",bluepoint engine,t
+sniper elite v2,0.98,"['shooter', 'tactical']","['action', 'historical', 'stealth', 'warfare']",asura,m
+the witcher 2: assassins of kings,0.98,"['role-playing (rpg)', 'adventure']","['action', 'fantasy']",havok physics,m
+south park: the stick of truth,0.97,"['role-playing (rpg)', 'strategy', 'adventure']","['action', 'fantasy', 'comedy', 'open world']",onyx engine,m
+sea of thieves,0.96,"['simulator', 'adventure']","['action', 'fantasy', 'open world']",unreal engine 4,t
+lost planet 2,0.95,"['shooter', 'adventure']","['action', 'science fiction']",mt framework,t
+destroy all humans!,0.94,"['shooter', 'adventure']","['action', 'science fiction', 'comedy', 'open world']",unreal engine 4,t
+bully,1.5,['adventure'],"['action', 'comedy', 'sandbox', 'open world']",renderware,t
+jak and daxter collection,0.93,"['shooter', 'platform', 'racing', 'strategy', 'adventure']","['action', 'fantasy', 'science fiction', 'open world']",kinetica,t
+operation flashpoint: dragon rising,0.93,"['shooter', 'puzzle', 'simulator', 'strategy', 'tactical']",['action'],ego engine,m
+crysis 3,0.92,"['shooter', 'adventure']","['action', 'science fiction', 'stealth']",cryengine,m
+sonic riders: zero gravity,0.91,"['racing', 'sport']","['action', 'fantasy', 'comedy']",havok physics,e
+marvel: ultimate alliance 2,0.9,"['role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure']","['action', 'science fiction']",vicarious visions alchemy,t
+burnout revenge,0.9,['racing'],['action'],renderware,e10
+james cameron's avatar: the game,0.9,"['shooter', 'adventure']","['action', 'science fiction']",dunia engine,t
+resistance: retribution,0.9,['shooter'],"['action', 'fantasy', 'science fiction', 'historical']",logan's shadow,m
+spider-man 3,0.9,['platform'],['action'],treyarch ngl,t
+blitz: the league,0.89,['sport'],"['action', 'comedy']",renderware,m
+resident evil: revelations,0.89,"['shooter', 'adventure']","['action', 'horror', 'survival']",mt framework,m
+fortnite,0.89,"['shooter', 'role-playing (rpg)', 'strategy', 'adventure']","['action', 'survival', 'sandbox', 'open world']",unreal engine 5,t
+call of juarez: bound in blood,0.88,"['shooter', 'adventure']","['action', 'fantasy', 'historical']",chrome engine,m
+the lord of the rings: war in the north,0.88,"['role-playing (rpg)', 'strategy', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy', 'open world']",dark alliance engine,m
+f1 2009,0.88,"['racing', 'simulator']",['non-fiction'],ego engine,e
+red faction: guerrilla,0.87,"['shooter', 'adventure']","['action', 'science fiction', 'open world']",geo-mod,m
+ghostbusters: the video game,0.87,"['shooter', 'adventure']","['action', 'science fiction', 'horror', 'comedy']",infernal engine,t
+tomb raider: anniversary,0.85,"['shooter', 'platform', 'simulator', 'strategy', 'adventure']",['action'],crystal engine,t
+until dawn: rush of blood,0.85,['shooter'],['horror'],decima,m
+burnout legends,0.85,"['racing', 'arcade']",['action'],renderware,e10
+burnout 2: point of impact,0.85,['racing'],['action'],renderware,e
+street fighter ex3,0.85,['fighting'],['action'],renderware,t
+darksiders ii,0.85,"['role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy', 'open world']",phoenix engine (relic),m
+zombiu,0.84,"['shooter', 'adventure']","['action', 'horror', 'survival']",lyn,m
+harry potter and the order of the phoenix,0.84,['adventure'],"['action', 'fantasy']",bright light halogen,e10
+duke nukem forever,0.83,"['shooter', 'adventure']","['action', 'science fiction', 'comedy']",unreal engine 2,m
+sly 3: honor among thieves,0.83,"['platform', 'adventure']","['action', 'stealth', 'comedy']",kinetica,e10
+sid meier's civilization revolution,0.83,"['simulator', 'strategy', 'turn-based strategy (tbs)']","['action', 'fantasy', 'historical', 'warfare']",gamebryo,e10
+medievil,0.83,"[""hack and slash/beat 'em up"", 'adventure']","['action', 'historical', 'comedy']",unreal engine 4,t
+the crew 2,0.82,['racing'],"['action', 'open world']",dunia engine,t
+ark: survival evolved,1.0,"['shooter', 'role-playing (rpg)', 'simulator', 'adventure', 'indie']","['action', 'survival', 'sandbox', 'open world']",unreal engine,t
+shaun white snowboarding,0.81,"['sport', 'adventure']","['action', 'non-fiction']",scimitar,t
+hitman: contracts,0.8,['shooter'],"['action', 'stealth']",glacier,m
+the 7th guest,2.0,"['point-and-click', 'puzzle', 'adventure']","['horror', 'drama']",groovie,t
+dead island: riptide,0.79,"['shooter', 'role-playing (rpg)', ""hack and slash/beat 'em up""]","['action', 'horror', 'survival', 'open world']",chrome engine,m
+prototype 2,0.79,"['platform', ""hack and slash/beat 'em up"", 'adventure']","['action', 'science fiction', 'horror', 'survival', 'sandbox', 'open world']",titanium,m
+dance dance revolution supernova 2,0.79,"['music', 'arcade']",['party'],bemani python 2,e10
+the godfather ii,0.79,"['shooter', 'racing', 'adventure']","['action', 'drama']",godfather engine,m
+destiny: the collection,0.78,"['shooter', 'role-playing (rpg)', 'adventure']","['action', 'fantasy', 'science fiction', 'warfare']",in-house engine,t
+too human,0.78,"['shooter', 'role-playing (rpg)', ""hack and slash/beat 'em up""]","['action', 'fantasy', 'science fiction', 'historical']",unreal engine 3,t
+aliens: colonial marines,0.78,['shooter'],"['action', 'science fiction', 'horror']",red ring,m
+doom,0.78,"['shooter', 'puzzle']","['action', 'science fiction', 'horror']",id tech 6,m
+tom clancy's splinter cell: double agent,0.78,"['shooter', 'tactical']","['action', 'stealth']",unreal engine 2.5,m
+goldeneye 007: reloaded,0.78,['shooter'],['action'],enginext,t
+hitman,0.78,"['shooter', 'tactical', 'adventure']","['action', 'stealth', 'open world']",glacier 2,m
+perfect dark zero,1.0,['shooter'],"['action', 'science fiction', 'stealth']",havok,m
+marvel nemesis: rise of the imperfects,0.77,['fighting'],"['action', 'science fiction']",havok,t
+sonic & sega all-stars racing with banjo-kazooie,0.77,['racing'],"['action', 'comedy', 'kids']",sunshine engine,e10
+harry potter and the half-blood prince,0.76,['adventure'],"['action', 'fantasy']",bright light halogen,e10
+kane & lynch: dead men,0.76,['shooter'],['action'],glacier,m
+quantum break,0.76,"['shooter', 'adventure']","['action', 'science fiction']",northlight engine,m
+raving rabbids: travel in time,0.75,"['platform', 'puzzle']","['action', 'fantasy', 'historical', 'comedy', 'party']",lyn,e10
+borderlands: the pre-sequel,0.75,"['shooter', 'role-playing (rpg)']","['action', 'science fiction', 'comedy']",unreal engine,m
+capcom vs. snk 2: mark of the millennium 2001,0.75,"['fighting', 'arcade']",['action'],sega naomi,t
+the lord of the rings: conquest,0.75,"[""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy']",zero,t
+turok,0.75,"['shooter', 'platform', 'adventure']","['action', 'fantasy']",kex,m
+resonance of fate,0.74,['role-playing (rpg)'],"['action', 'science fiction']",aska,t
+sonic forces,0.74,"['platform', 'strategy', 'adventure']","['action', 'fantasy', 'science fiction']",hedgehog engine 2,e10
+pirates of the caribbean: at world's end,0.73,['adventure'],['action'],enginext,t
+ultimate spider-man,0.72,"[""hack and slash/beat 'em up""]",['action'],treyarch ngl,t
+xcom: enemy unknown,0.72,"['role-playing (rpg)', 'simulator', 'strategy', 'turn-based strategy (tbs)', 'tactical']","['action', 'science fiction', 'warfare']",unreal engine,m
+blur,0.72,"['racing', 'sport', 'arcade']","['action', 'science fiction']",horizon engine,e10
+deus ex: mankind divided,0.72,"['shooter', 'puzzle', 'role-playing (rpg)', 'adventure']","['action', 'science fiction', 'stealth']",dawn engine,m
+virtua fighter 4: evolution,0.71,['fighting'],['action'],sega naomi,t
+soulcalibur vi,1.44,['fighting'],['action'],unreal engine 4,t
+crysis,3.0,"['shooter', 'adventure']","['action', 'science fiction', 'stealth']",cryengine,m
+catherine,0.71,"['platform', 'puzzle', 'adventure']","['action', 'horror', 'comedy', 'drama', 'romance']",gamebryo,m
+doom 3: resurrection of evil,0.71,['shooter'],"['action', 'science fiction', 'horror']",id tech 4,m
+kill.switch,0.7,['shooter'],"['action', 'science fiction']",renderware,t
+jade empire,0.7,"['role-playing (rpg)', 'adventure']","['action', 'fantasy']",odyssey,m
+james bond 007: blood stone,0.7,['shooter'],['action'],horizon,t
+transformers: revenge of the fallen,0.7,"['shooter', 'adventure']","['action', 'science fiction']",goliath engine,t
+mafia,0.7,"['fighting', 'shooter', 'racing', 'adventure']","['action', 'open world']",ls3d,m
+total war: rome ii,1.13,"['real time strategy (rts)', 'role-playing (rpg)', 'strategy', 'turn-based strategy (tbs)']",['historical'],tw engine 3,t
+the sly collection,0.69,"['platform', 'adventure']","['action', 'stealth', 'comedy']",kinetica,e10
+prince of persia: the forgotten sands,0.69,"['platform', 'adventure']","['action', 'fantasy', 'historical']",jade,t
+yakuza 6: the song of life,0.8,"['role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure']","['action', 'drama', 'open world']",dragon engine,m
+baldur's gate: dark alliance ii,0.68,"['role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy', 'historical']",snowblind engine,t
+f1 2015,0.68,"['racing', 'simulator', 'sport']",['non-fiction'],ego engine,e
+test drive unlimited 2,0.68,['racing'],['open world'],twilight,t
+the last remnant,0.58,"['role-playing (rpg)', 'strategy']","['fantasy', 'historical']",unreal engine,m
+prince of persia: the two thrones,0.68,"['platform', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy']",jade,m
+metro redux,0.68,"['shooter', 'role-playing (rpg)']","['action', 'horror', 'survival']",4a engine,m
+need for speed: shift 2 unleashed,0.67,"['racing', 'simulator']",['action'],the madness engine,e10
+lollipop chainsaw,0.67,"[""hack and slash/beat 'em up""]","['action', 'comedy']",unreal engine,m
+star wars: republic commando,0.67,"['shooter', 'tactical', 'adventure']","['action', 'science fiction']",unreal engine 2,t
+unreal tournament iii,0.67,['shooter'],"['action', 'science fiction']",unreal engine,m
+napoleon: total war,0.67,"['real time strategy (rts)', 'strategy', 'turn-based strategy (tbs)', 'tactical']","['fantasy', 'historical']",tw engine 3,t
+command & conquer: red alert 3,0.66,"['real time strategy (rts)', 'simulator', 'strategy']","['fantasy', 'science fiction', 'historical', 'comedy']",sage,t
+the sims 3: high-end loft stuff,0.66,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims 3 engine,t
+nhl 16,0.66,['sport'],['non-fiction'],ignite engine,e10
+freedom wars,0.66,"['shooter', 'role-playing (rpg)']","['action', 'science fiction', 'warfare']",havok,t
+f-zero gx,0.65,['racing'],"['action', 'science fiction']",super monkey ball engine,t
+champions: return to arms,0.65,"['role-playing (rpg)', ""hack and slash/beat 'em up""]","['action', 'fantasy']",dark alliance engine,t
+harry potter and the goblet of fire,0.65,['adventure'],"['action', 'fantasy']",renderware,e10
+spyro: a hero's tail,0.64,['platform'],['action'],enginex,e
+batman: return to arkham,0.64,"['strategy', ""hack and slash/beat 'em up"", 'adventure']","['action', 'thriller', 'stealth', 'drama']",unreal engine,t
+the saboteur,0.51,"['shooter', 'role-playing (rpg)', 'tactical', 'adventure']","['action', 'historical', 'sandbox', 'open world', 'warfare']",havok physics,m
+the adventures of jimmy neutron boy genius: attack of the twonkies,0.5,"['platform', 'adventure']","['action', 'science fiction']",renderware,e
+homefront: the revolution,0.5,"['shooter', 'adventure']","['action', 'warfare']",cryengine,m
+r.u.s.e.,0.5,"['real time strategy (rts)', 'strategy', 'tactical']","['action', 'science fiction', 'historical', 'warfare', '4x (explore, expand, exploit, and exterminate)']",iriszoom,t
+lost: via domus,0.5,"['puzzle', 'adventure']","['action', 'science fiction']",yeti,t
+transformers: war for cybertron,0.5,"['shooter', 'adventure']","['action', 'science fiction', 'warfare']",unreal engine 3,t
+hitman: blood money,0.5,['shooter'],"['action', 'stealth']",glacier,m
+crash: mind over mutant,0.5,['platform'],"['action', 'comedy']",titanium,e10
+alice: madness returns,0.5,"['platform', 'puzzle', ""hack and slash/beat 'em up"", 'quiz/trivia', 'adventure']","['action', 'horror']",unreal engine 3,m
+wet,0.5,['shooter'],['action'],gaia,m
+gauntlet,0.5,"['role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy']",bitsquid,m
+kane & lynch 2: dog days,0.49,"['shooter', 'adventure']","['action', 'open world']",glacier,m
+dirt 4,0.49,"['racing', 'simulator', 'sport']",['non-fiction'],ego engine,t
+alone in the dark,0.49,"['shooter', 'puzzle', 'adventure']","['action', 'horror', 'survival']",twilight,m
+battleborn,0.48,"['shooter', 'real time strategy (rts)', 'role-playing (rpg)', 'strategy', ""hack and slash/beat 'em up""]","['action', 'fantasy', 'science fiction', 'comedy']",unreal engine,t
+dark sector,0.48,['shooter'],"['action', 'science fiction', 'horror']",evolution,m
+a way out,0.48,['adventure'],['action'],unreal engine,m
+crash of the titans,0.48,"['platform', 'adventure']","['action', 'comedy']",titanium,e10
+friday the 13th: the game,0.48,['indie'],"['action', 'horror', 'survival']",unreal engine,m
+batman: arkham origins blackgate,0.48,"['shooter', ""hack and slash/beat 'em up"", 'adventure']","['action', 'stealth']",bluepoint engine,t
+sonic lost world,0.48,"['platform', 'adventure']",['action'],hedgehog engine,e10
+wolfenstein: the old blood,0.48,"['shooter', 'adventure']","['action', 'fantasy', 'science fiction', 'horror', 'historical']",id tech 5,m
+f.e.a.r. 2: project origin,0.47,['shooter'],"['action', 'horror']",lithtech,m
+silent hill: downpour,0.47,['adventure'],"['horror', 'survival']",unreal engine 3,m
+doom 64,0.47,['shooter'],"['action', 'science fiction', 'horror']",kex,m
+payday 2,0.47,"['shooter', 'role-playing (rpg)', 'tactical']","['action', 'stealth']",diesel,m
+deadpool,0.47,"['shooter', ""hack and slash/beat 'em up"", 'adventure']","['action', 'comedy']",unreal engine,m
+"warhammer 40,000: dawn of war ii",0.47,"['real time strategy (rts)', 'strategy']",['science fiction'],essence engine,m
+spider-man: friend or foe,0.47,"['platform', ""hack and slash/beat 'em up"", 'adventure']",['action'],vicarious visions alchemy,e10
+fifa soccer 13,0.46,"['simulator', 'sport']",['non-fiction'],impact engine,e
+tomb raider: legend,0.46,"['shooter', 'platform', 'simulator', 'strategy', 'adventure']",['action'],crystal engine,t
+red faction: armageddon,0.46,"['shooter', 'adventure']","['action', 'science fiction', 'horror', 'open world']",geo-mod,m
+state of decay 2,0.46,"['role-playing (rpg)', 'simulator']","['action', 'horror', 'survival', 'open world']",unreal engine,m
+delta force: black hawk down,0.46,"['shooter', 'tactical']","['action', 'warfare']",asura,t
+dishonored: death of the outsider,0.33,"['puzzle', 'role-playing (rpg)', 'adventure']","['action', 'fantasy', 'stealth']",void engine,m
+beyond good & evil,0.33,"['shooter', 'puzzle', 'adventure']","['action', 'science fiction', 'stealth']",jade,t
+valkyria chronicles remastered,0.33,"['role-playing (rpg)', 'strategy', 'turn-based strategy (tbs)', 'tactical']","['action', 'fantasy', 'drama', 'warfare']",canvas engine,t
+deus ex: invisible war,0.33,"['shooter', 'role-playing (rpg)']","['action', 'science fiction']",unreal engine 2,m
+kelly slater's pro surfer,0.33,['sport'],['action'],trerarch ngl,e
+naruto: rise of a ninja,0.33,"['fighting', 'role-playing (rpg)', 'adventure']",['action'],jade,t
+murdered: soul suspect,0.33,"['puzzle', 'role-playing (rpg)', 'adventure']","['action', 'horror', 'thriller']",unreal engine 3,m
+the witcher: enhanced edition,0.33,"['role-playing (rpg)', 'adventure']","['action', 'fantasy']",aurora engine,m
+swat: global strike team,0.32,"['shooter', 'tactical']",['action'],brender,m
+drakengard 3,0.32,"['role-playing (rpg)', 'strategy', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy']",unreal engine 3,m
+kinetica,0.32,['racing'],"['action', 'science fiction']",kinetica,t
+operation flashpoint: red river,0.32,"['shooter', 'simulator', 'strategy']","['action', 'warfare']",ego engine,m
+f1 race stars,0.32,"['racing', 'sport', 'arcade']",['action'],ego engine,e
+darkwatch,0.32,['shooter'],"['action', 'horror']",renderware,m
+prey,0.32,"['shooter', 'puzzle', 'adventure']","['action', 'science fiction', 'horror', 'survival']",cryengine,m
+the darkness ii,0.32,['shooter'],"['action', 'horror', 'survival']",evolution engine,m
+singularity,0.32,"['shooter', 'puzzle']","['action', 'fantasy', 'science fiction', 'horror', 'historical']",unreal engine,m
+clive barker's jericho,0.32,['shooter'],"['action', 'fantasy', 'science fiction', 'horror', 'survival']",mercury steam engine,m
+ultimate marvel vs. capcom 3,0.31,['fighting'],['action'],mt framework,t
+sonic boom: rise of lyric,0.31,"['platform', 'adventure']",['action'],cryengine,e10
+dark void,0.31,"['shooter', 'simulator', 'adventure']","['action', 'fantasy', 'science fiction', 'historical']",unreal engine,t
+tron: evolution,0.31,"['platform', 'puzzle', 'adventure']","['action', 'science fiction']",aurora engine,t
+the settlers 7: paths to a kingdom,0.31,"['real time strategy (rts)', 'simulator', 'strategy']",['historical'],vision,e10
+f1 2013,0.3,"['racing', 'simulator', 'sport', 'strategy']",['non-fiction'],ego engine,e
+resident evil: revelations 2,0.3,"['shooter', 'adventure']","['action', 'horror', 'survival']",mt framework,m
+cities: skylines,0.3,"['simulator', 'strategy']","['business', 'sandbox']",unity,e
+my hero one's justice,0.3,['fighting'],"['action', 'fantasy']",unreal engine 4,t
+sorcery,0.3,"['puzzle', 'role-playing (rpg)', 'adventure']","['action', 'science fiction']",unreal engine,e10
+quake ii,0.3,['shooter'],"['action', 'science fiction', 'horror']",id tech 2,m
+rayman 2: revolution,0.3,"['platform', 'adventure']","['action', 'fantasy']",openspace,e
+sniper elite 4,0.3,"['shooter', 'tactical', 'adventure']","['action', 'historical', 'stealth', 'open world', 'warfare']",asura,m
+the walking dead: season two,0.3,"['point-and-click', 'puzzle', 'adventure']","['action', 'horror', 'survival', 'drama']",telltale tool,m
+naruto to boruto: shinobi striker,2.13,['fighting'],"['action', 'fantasy']",unreal engine,t
+mini ninjas,0.29,"['platform', 'adventure']","['action', 'stealth', 'open world']",glacier,e10
+yooka-laylee,0.29,"['platform', 'adventure', 'indie']","['action', 'fantasy', 'open world']",unity,e10
+call of juarez: the cartel,0.29,"['shooter', 'adventure']",['action'],chrome engine,m
+x-men legends ii: rise of apocalypse,0.29,"['role-playing (rpg)', ""hack and slash/beat 'em up""]","['action', 'fantasy', 'science fiction', 'historical']",vicarious visions alchemy,t
+prince of persia: rival swords,0.29,"['platform', 'puzzle', 'adventure']","['action', 'fantasy', 'historical']",jade engine,t
+the chronicles of riddick: assault on dark athena,0.29,['shooter'],"['action', 'science fiction', 'stealth']",starbreeze engine,m
+army of two: the devil's cartel,0.29,['shooter'],['action'],frostbite,m
+007 legends,0.29,['shooter'],['action'],iw engine,t
+just cause 4,0.29,"['shooter', 'adventure']","['action', 'sandbox', 'open world']",apex,m
+sherlock holmes: crimes & punishments,0.29,"['puzzle', 'adventure']","['action', 'mystery']",unreal engine,m
+world of tanks,0.28,"['shooter', 'simulator', 'strategy', 'arcade']","['action', 'non-fiction', 'warfare']",bigworld,t
+bionic commando,0.38,"['shooter', 'platform', 'adventure']","['action', 'science fiction']",diesel,m
+onechanbara z2: chaos,0.28,"[""hack and slash/beat 'em up""]","['action', 'horror']",phyreengine,m
+myst iii: exile,0.28,"['point-and-click', 'puzzle', 'adventure']","['fantasy', 'drama', 'mystery']",sprint,e
+grid 2,0.27,"['racing', 'simulator', 'sport', 'arcade']",['non-fiction'],ego engine,e
+bravo team,0.27,['shooter'],['action'],unreal engine 4,t
+shadows of the damned,0.27,"['shooter', 'puzzle']","['horror', 'comedy']",unreal engine 3,m
+bloodrayne 2,0.27,"[""hack and slash/beat 'em up"", 'adventure']","['action', 'horror']",infernal engine,m
+killing floor 2,0.27,['shooter'],"['action', 'science fiction', 'horror', 'survival']",unreal engine 3,m
+robinson: the journey,0.27,['adventure'],"['action', 'science fiction']",cryengine,e
+the bureau: xcom declassified,0.27,"['shooter', 'strategy', 'tactical']","['action', 'fantasy', 'science fiction', 'historical']",unreal engine,m
+section 8,0.27,['shooter'],['science fiction'],unreal engine 3,t
+total war: attila,0.26,"['real time strategy (rts)', 'strategy', 'turn-based strategy (tbs)']","['fantasy', 'historical', 'warfare']",tw engine 3,t
+the house of the dead 2,0.26,['shooter'],"['action', 'science fiction', 'horror']",sega naomi,m
+asura's wrath,0.26,"[""hack and slash/beat 'em up""]",['action'],unreal engine,t
+sword art online: hollow realization,0.26,"['role-playing (rpg)', 'adventure']","['action', 'fantasy']",phyreengine,t
+spider-man: web of shadows,0.26,"['fighting', 'platform', ""hack and slash/beat 'em up"", 'adventure']",['action'],treyarch ngl,t
+resident evil: deadly silence,0.26,"['shooter', 'adventure']","['horror', 'survival']",quest,m
+ice age 2: the meltdown,0.25,"['platform', 'sport', 'adventure']","['action', 'comedy']",enginex,e10
+the legend of heroes: trails of cold steel,0.25,"['role-playing (rpg)', 'turn-based strategy (tbs)', 'adventure']",['fantasy'],phyreengine,t
+men of valor,0.25,['shooter'],"['action', 'historical', 'warfare']",unreal engine,m
+wipeout fusion,0.25,['racing'],['action'],kinetica,e
+spider-man: edge of time,0.25,"['platform', 'adventure']","['action', 'science fiction']",goliath engine,t
+darksiders iii,0.25,"['role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy', 'open world']",unreal engine 4,m
+nba live 15,0.25,['sport'],['non-fiction'],ignite engine,e
+valkyria chronicles 4,0.25,"['role-playing (rpg)', 'simulator', 'strategy', 'turn-based strategy (tbs)', 'tactical']","['action', 'fantasy', 'historical', 'warfare']",canvas engine,t
+x-men: destiny,0.24,"['role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure']",['action'],unreal engine 3,t
+hello neighbor,0.24,"['puzzle', 'role-playing (rpg)', 'strategy', 'adventure', 'indie']","['action', 'horror', 'thriller', 'stealth', 'comedy', 'sandbox', 'open world']",unreal engine,e10
+saints row iv: re-elected,0.24,"['shooter', 'adventure']","['action', 'science fiction', 'comedy', 'sandbox', 'open world']",ctg (core technology group),m
+spider-man: shattered dimensions,0.24,"['platform', 'adventure']","['action', 'science fiction', 'stealth']",goliath engine,t
+darksiders ii: deathinitive edition,0.24,"['fighting', 'puzzle', 'role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy', 'open world']",phoenix engine (relic),m
+thehunter: call of the wild,0.24,"['shooter', 'simulator', 'sport', 'strategy', 'adventure']",['action'],apex,t
+metro 2033,0.24,"['shooter', 'role-playing (rpg)']","['action', 'science fiction', 'horror', 'thriller', 'survival', 'stealth', 'warfare']",4a engine,m
+dc universe online,0.23,"['fighting', 'role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure', 'indie']","['action', 'fantasy', 'open world']",unreal engine,t
+buffy the vampire slayer,0.23,"[""hack and slash/beat 'em up"", 'adventure']","['action', 'horror']",slayer,t
+angry birds,0.23,"['puzzle', 'strategy', 'indie', 'arcade']","['action', 'comedy', 'kids']",sdl,e
+spec ops: the line,0.23,"['shooter', 'adventure']","['action', 'warfare']",unreal engine,m
+dirt showdown,0.23,"['racing', 'sport']","['action', 'non-fiction']",ego engine,e10
+the incredible hulk: ultimate destruction,0.23,"[""hack and slash/beat 'em up""]","['action', 'science fiction', 'sandbox']",pure3d,t
+airblade,0.23,"['racing', 'simulator', 'sport', 'arcade']","['action', 'science fiction']",renderware,t
+freedom fighters,0.23,"['shooter', 'simulator', 'tactical']","['action', 'fantasy', 'historical']",glacier,t
+soldier of fortune ii: double helix,0.23,['shooter'],"['action', 'warfare']",id tech 3,m
+blowout,0.23,"['shooter', 'platform']","['action', 'science fiction']",infernal engine,t
+f1 2014,0.23,"['racing', 'simulator', 'sport']",['non-fiction'],ego engine,e
+metal gear survive,0.23,"['shooter', 'strategy', 'adventure']","['action', 'science fiction', 'survival']",fox engine,m
+silent hill: book of memories,0.23,"[""hack and slash/beat 'em up"", 'adventure']","['action', 'horror', 'survival']",wf engine,m
+spartan: total warrior,0.22,"[""hack and slash/beat 'em up""]","['action', 'historical']",spartan: total warrior engine,m
+dead by daylight,0.22,"['strategy', 'indie']","['action', 'horror', 'survival', 'stealth']",unreal engine,m
+life is strange: before the storm,0.22,"['adventure', 'indie']","['action', 'fantasy', 'science fiction', 'drama', 'mystery']",unity,m
+kingdom come: deliverance,0.22,"['role-playing (rpg)', 'adventure']","['action', 'historical', 'open world']",cryengine,m
+zombie army trilogy,0.22,"['shooter', 'tactical', 'adventure']","['action', 'horror']",asura engine,m
+lords of the fallen,0.22,"['role-playing (rpg)', 'adventure']","['action', 'fantasy']",unreal engine 5,m
+hitman 2,0.22,"['shooter', 'tactical', 'adventure']","['action', 'stealth']",glacier engine,m
+dirt rally,0.21,"['racing', 'simulator', 'sport']",['non-fiction'],ego engine,e
+lost planet 3,0.21,['shooter'],"['action', 'science fiction']",unreal engine,t
+bloodrayne,0.21,"[""hack and slash/beat 'em up"", 'adventure']","['action', 'horror']",infernal engine,m
+bound by flame,0.21,"['role-playing (rpg)', 'adventure']","['action', 'fantasy']",silk engine,m
+prince of persia: revelations,0.21,['platform'],['action'],jade,m
+the sims 4: cats & dogs,0.21,"['role-playing (rpg)', 'simulator', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",smartsim,t
+conan exiles,0.21,"['fighting', 'role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['action', 'fantasy', 'survival', 'open world']",unreal engine 4,m
+deus ex: the conspiracy,0.21,"['shooter', 'role-playing (rpg)']","['action', 'science fiction']",unreal engine,m
+unreal ii: the awakening,0.21,['shooter'],"['action', 'science fiction']",unreal engine 2,m
+7 days to die,0.21,"['shooter', 'role-playing (rpg)', 'simulator', 'strategy', 'adventure', 'indie']","['action', 'horror', 'survival', 'sandbox', 'open world']",unity,m
+zone of the enders hd collection,0.21,"['shooter', ""hack and slash/beat 'em up""]","['action', 'science fiction', 'warfare']",fox engine,m
+dragon's dogma: dark arisen,0.21,"['role-playing (rpg)', 'adventure']","['action', 'fantasy', 'historical', 'open world']",mt framework,m
+evil dead: regeneration,0.21,"[""hack and slash/beat 'em up"", 'adventure']","['action', 'horror', 'comedy']",renderware,m
+castlevania: lords of shadow 2,0.2,"[""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy', 'horror']",mercury steam engine,m
+"warhammer 40,000: space marine",1.1,"['shooter', 'role-playing (rpg)']","['action', 'science fiction']",phoenix engine (relic),m
+capcom fighting evolution,0.2,['fighting'],"['action', 'fantasy']",capcom vs snk 2 engine,t
+sid meier's pirates!,0.2,"['real time strategy (rts)', 'role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['action', 'historical', 'open world']",gamebryo,e
+project cars 2,0.2,"['racing', 'simulator']",['non-fiction'],the madness engine,e
+soldier of fortune: payback,0.2,['shooter'],"['action', 'warfare']",cloaknt3,m
+playboy: the mansion,0.2,"['simulator', 'strategy']",['business'],gamebryo,m
+agents of mayhem,0.2,"['shooter', 'adventure']","['action', 'science fiction', 'comedy', 'open world']",in-house engine,m
+total war: shogun 2 - fall of the samurai,0.2,"['real time strategy (rts)', 'strategy']","['fantasy', 'historical', 'warfare']",tw engine 3,t
+predator: concrete jungle,0.2,['adventure'],"['action', 'science fiction']",enginex,m
+the king of fighters xi,0.19,['fighting'],['action'],atomiswave,t
+conan,0.19,"['shooter', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy']",havok,m
+dishonored: definitive edition,0.19,"['shooter', 'adventure']","['action', 'stealth']",unreal engine 3,m
+rise of the argonauts,0.19,"['role-playing (rpg)', 'adventure']","['action', 'fantasy', 'historical']",unreal engine,m
+spongebob squigglepants 3d,0.19,['arcade'],['kids'],engineblack,e
+super street fighter iv: arcade edition,0.37,['fighting'],['action'],taito type x,t
+elite: dangerous,0.19,"['shooter', 'role-playing (rpg)', 'simulator', 'strategy', 'adventure', 'indie']","['action', 'science fiction', 'sandbox', 'open world']",cobra,t
+stronghold 3,0.19,"['real time strategy (rts)', 'simulator', 'strategy']","['fantasy', 'historical', 'warfare']",havok physics,t
+2002 fifa world cup,0.19,['sport'],['non-fiction'],fifa 2001 engine,e
+quake,0.19,"['shooter', 'adventure']","['action', 'fantasy', 'science fiction']",kex,m
+dancedancerevolution,0.19,"['music', 'arcade']",['party'],bemani pc type 4,e10
+remember me,0.19,"['platform', 'adventure']","['action', 'science fiction', 'stealth']",unreal engine,m
+risen,0.19,['role-playing (rpg)'],"['action', 'fantasy', 'open world']",internal piranha byte's engine,m
+mirror's edge catalyst,0.19,"['fighting', 'adventure']","['action', 'thriller', 'open world']",frostbite,t
+metro: last light,1.49,['shooter'],"['action', 'fantasy', 'horror', 'survival', 'historical']",4a engine,m
+the surge,0.19,"['role-playing (rpg)', 'adventure']","['action', 'science fiction']",proprietary engine,m
+grid: autosport,0.19,"['racing', 'simulator', 'sport']",['non-fiction'],ego engine,e
+arcania: gothic 4,0.18,['role-playing (rpg)'],"['action', 'fantasy', 'historical', 'open world']",vision,t
+indiana jones and the emperor's tomb,0.18,['adventure'],['action'],slayer,t
+bendy and the ink machine,0.18,"['puzzle', 'strategy', 'adventure', 'indie']","['action', 'horror', 'survival']",unity,t
+syndicate,0.18,"['shooter', 'puzzle']","['action', 'science fiction']",starbreeze engine,m
+call of juarez,0.18,['shooter'],['action'],chrome engine,m
+the elder scrolls iv: shivering isles,0.18,['role-playing (rpg)'],"['fantasy', 'historical', 'sandbox', 'open world']",havok physics,m
+moon,0.18,"['puzzle', 'role-playing (rpg)', 'adventure']","['fantasy', 'comedy']",unity,t
+back to the future: the game,0.18,"['point-and-click', 'puzzle', 'adventure']","['action', 'fantasy', 'science fiction', 'historical', 'comedy']",telltale tool,t
+sega genesis classics,0.18,"['shooter', 'platform', 'puzzle', 'racing', 'role-playing (rpg)', ""hack and slash/beat 'em up"", 'pinball', 'adventure', 'arcade']","['action', 'fantasy', 'science fiction', 'kids', 'party']",unity,t
+sniper: ghost warrior 3,0.18,"['shooter', 'tactical']","['action', 'stealth', 'warfare']",cryengine,m
+mega man 11,0.17,"['shooter', 'platform']","['action', 'science fiction']",mt framework,e10
+dungeon siege iii,0.64,['role-playing (rpg)'],"['action', 'fantasy']",onyx engine,t
+the secret world,0.27,"['puzzle', 'role-playing (rpg)', 'adventure']","['action', 'fantasy', 'science fiction', 'horror', 'historical']",dreamworld,m
+thief: deadly shadows,0.17,"['shooter', 'simulator', 'adventure']","['action', 'fantasy', 'stealth']",unreal engine,m
+fairytale fights,0.17,"['platform', 'puzzle', ""hack and slash/beat 'em up"", 'adventure']",['action'],unreal engine,m
+prototype: biohazard bundle,0.17,"['platform', ""hack and slash/beat 'em up"", 'adventure']","['action', 'survival', 'sandbox', 'open world']",titanium,m
+axiom verge,0.17,"['platform', 'adventure', 'indie']","['action', 'science fiction']",microsoft xna,e10
+f1 2018,0.17,"['racing', 'simulator', 'sport']",['non-fiction'],ego engine,e
+age of empires iii: complete collection,0.17,"['real time strategy (rts)', 'simulator', 'strategy']","['non-fiction', 'warfare']",havok physics,t
+wolfenstein 3d,0.17,['shooter'],"['action', 'fantasy', 'science fiction', 'horror', 'historical']",wolfenstein 3d,m
+flatout,0.17,"['racing', 'simulator']",['action'],romu,t
+akiba's trip: undead & undressed,0.16,"['role-playing (rpg)', 'adventure']",['action'],phyreengine,m
+magic: the gathering - battlegrounds,0.16,"['fighting', 'real time strategy (rts)']",['action'],unreal engine 2,t
+little nightmares,0.16,"['platform', 'puzzle', 'adventure']","['action', 'fantasy', 'horror', 'thriller']",unreal engine 4,t
+beowulf: the game,0.16,"[""hack and slash/beat 'em up"", 'adventure']","['action', 'horror']",yeti,m
+timeshift,0.16,"['shooter', 'puzzle']","['action', 'fantasy', 'science fiction', 'historical', 'stealth']",saber3d,m
+robots,0.16,"['platform', 'puzzle', 'racing']","['action', 'science fiction', 'comedy']",enginex,e
+pillars of eternity,0.16,"['role-playing (rpg)', 'strategy', 'adventure', 'indie']",['fantasy'],unity,m
+sid meier's civilization iv,3.0,"['simulator', 'strategy', 'turn-based strategy (tbs)']","['fantasy', 'historical', 'educational', '4x (explore, expand, exploit, and exterminate)']",gamebryo,e10
+disgaea 4: a promise unforgotten,0.16,"['role-playing (rpg)', 'strategy', 'tactical']",['comedy'],phyreengine,t
+the walking dead: season one,0.16,"['point-and-click', 'adventure']","['action', 'horror', 'survival', 'drama']",telltale tool,m
+valkyria revolution,0.16,"['role-playing (rpg)', 'strategy']","['action', 'fantasy', 'warfare']",gouache engine,t
+castlevania: lords of shadow - mirror of fate,0.16,"['platform', 'adventure']","['action', 'fantasy', 'horror', 'historical']",mercury steam engine,m
+amped 3,0.16,['sport'],"['action', 'comedy']",in house engine,t
+jurassic park: the game,0.16,"['point-and-click', 'adventure']","['action', 'science fiction', 'horror', 'survival']",telltale tool,t
+f.e.a.r. 3,1.1,"['shooter', 'adventure']","['action', 'science fiction', 'horror']",despair,m
+brothers: a tale of two sons,0.15,"['puzzle', 'adventure', 'indie']","['action', 'fantasy', 'drama']",unreal engine 3,t
+spongebob's truth or square,0.15,"['platform', 'adventure']","['action', 'comedy', 'kids']",havok,e
+shadow ops: red mercury,0.15,['shooter'],"['action', 'science fiction']",unreal engine,t
+the oregon trail,0.15,"['simulator', 'strategy', 'adventure']",['educational'],unreal engine 4,e
+wasteland 2,0.15,"['role-playing (rpg)', 'strategy', 'turn-based strategy (tbs)', 'adventure', 'indie']","['action', 'science fiction', 'survival']",unity,m
+rime,0.15,"['platform', 'puzzle', 'adventure', 'indie']","['action', 'fantasy', 'kids']",unreal engine 4,e10
+the sims medieval: pirates and nobles,0.15,"['simulator', 'strategy', 'adventure']",['historical'],the sims 3 engine,t
+the sims 3: seasons,0.15,"['role-playing (rpg)', 'simulator', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims 3 engine,t
+rayman 3,0.14,['platform'],"['action', 'fantasy', 'comedy', 'kids']",java,e
+cyberdimension neptunia: 4 goddesses online,0.14,['role-playing (rpg)'],"['action', 'science fiction']",unreal engine,t
+the da vinci code,0.14,"['puzzle', 'adventure']","['action', 'stealth', 'mystery']",slayer,t
+sphinx and the cursed mummy,0.14,"['platform', 'puzzle', 'role-playing (rpg)', 'adventure']","['action', 'fantasy']",enginex,t
+we happy few,0.14,"['shooter', 'adventure', 'indie']","['action', 'fantasy', 'horror', 'survival', 'historical', 'stealth', 'open world']",unreal engine,m
+the operative: no one lives forever,0.14,['shooter'],"['action', 'stealth', 'comedy']",lithtech,m
+x-blades,0.14,"['shooter', 'role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy']",dagor engine,m
+ecco the dolphin: defender of the future,0.14,"['puzzle', 'role-playing (rpg)', 'adventure']","['action', 'science fiction']",game world builder,e
+just cause,0.14,"['shooter', 'racing', 'adventure']","['action', 'sandbox', 'open world']",havok physics,m
+enclave,0.14,"['role-playing (rpg)', ""hack and slash/beat 'em up""]","['action', 'fantasy', 'historical']",starbreeze engine,m
+dragon age: origins - ultimate edition,0.14,"['role-playing (rpg)', 'strategy', 'adventure']","['action', 'fantasy', 'open world']",eclipse,m
+rogue warrior,0.13,"['shooter', 'tactical']","['action', 'stealth', 'sandbox']",asura,m
+divinity ii: the dragon knight saga,0.13,"['role-playing (rpg)', 'adventure']","['fantasy', 'historical']",gamebryo,m
+new gundam breaker,0.13,"['fighting', 'shooter', ""hack and slash/beat 'em up""]","['action', 'science fiction']",unreal engine,t
+game party champions,0.13,['sport'],"['action', 'party']",unreal engine,e
+frogger beyond,0.13,['platform'],['action'],renderware,e
+venetica,0.13,"['role-playing (rpg)', 'adventure', 'indie']","['action', 'fantasy', 'historical']",ogre,t
+the legend of heroes: trails of cold steel iv,0.13,"['role-playing (rpg)', 'turn-based strategy (tbs)', 'adventure']","['action', 'fantasy']",phyreengine,t
+fat princess: fistful of cake,0.13,['real time strategy (rts)'],"['action', 'fantasy']",unreal engine,t
+goosebumps: the game,0.13,"['point-and-click', 'puzzle', 'strategy', 'adventure']","['action', 'horror']",wf engine,e10
+advent rising,0.13,"['shooter', 'adventure']","['action', 'science fiction']",unreal engine,t
+hour of victory,0.13,['shooter'],['action'],physx,t
+the legend of heroes: trails of cold steel iii,0.13,"['role-playing (rpg)', 'turn-based strategy (tbs)', 'adventure']","['action', 'fantasy']",phyreengine,t
+armed and dangerous,0.13,['shooter'],"['action', 'fantasy', 'science fiction', 'historical', 'comedy']",amityville,t
+the inpatient,0.13,['adventure'],"['action', 'horror', 'thriller', 'survival']",unreal engine 4,m
+obscure: the aftermath,0.12,['adventure'],"['action', 'horror', 'survival']",renderware,m
+conduit 2,0.12,['shooter'],"['action', 'science fiction']",quantum3,t
+vampyr,0.12,"['role-playing (rpg)', 'adventure']","['action', 'horror']",unreal engine 4,m
+call of cthulhu,0.12,"['role-playing (rpg)', 'adventure']","['action', 'horror', 'thriller']",unreal engine 4,m
+nail'd,0.12,['racing'],['action'],chrome engine,e10
+subnautica,0.12,"['adventure', 'indie']","['science fiction', 'survival', 'open world']",unity,e10
+dead cells,0.11,"['platform', 'adventure', 'indie']","['action', 'fantasy']",heaps.io,t
+tmnt,0.11,"['platform', ""hack and slash/beat 'em up"", 'adventure']","['action', 'science fiction', 'comedy']",jade engine,e10
+cold winter,0.11,"['shooter', 'adventure']",['action'],renderware,m
+stubbs the zombie in rebel without a pulse,0.11,['adventure'],"['action', 'fantasy', 'science fiction', 'horror', 'historical', 'comedy']",halo 2,m
+medieval ii: total war,0.55,"['real time strategy (rts)', 'simulator', 'strategy', 'turn-based strategy (tbs)', 'tactical']","['historical', 'warfare']",tw engine 2,t
+mighty no. 9,0.11,"['shooter', 'platform', 'adventure', 'arcade']","['action', 'science fiction']",unreal engine 3,e10
+cold fear,0.11,"['shooter', 'puzzle', 'adventure']","['action', 'horror', 'survival']",renderware,m
+capcom vs. snk 2 eo,0.11,['fighting'],['action'],sega naomi,t
+cake mania,0.11,"['simulator', 'strategy']",['action'],popcap games framework,e
+army men: rts,0.11,"['real time strategy (rts)', 'strategy']","['action', 'warfare']",zero,t
+burnout paradise remastered,0.11,"['racing', 'adventure']","['action', 'open world']",renderware,e10
+hexen: beyond heretic,0.11,"['shooter', 'puzzle', 'role-playing (rpg)']","['action', 'fantasy', 'horror']",id tech 1,m
+pac-man and the ghostly adventures 2,0.11,"['platform', 'adventure']","['action', 'science fiction', 'comedy']",vicious engine,e10
+machinarium,0.61,"['point-and-click', 'puzzle', 'adventure', 'indie']","['fantasy', 'science fiction']",adobe flash player,e10
+slime rancher,0.1,"['shooter', 'simulator', 'strategy', 'adventure', 'indie']","['action', 'science fiction', 'open world']",unity,e10
+pariah,0.1,['shooter'],"['action', 'science fiction']",unreal engine,m
+escape from monkey island,0.1,"['point-and-click', 'puzzle', 'adventure']","['fantasy', 'historical', 'comedy']",grime,t
+stardew valley,0.1,"['role-playing (rpg)', 'simulator', 'strategy', 'indie']","['fantasy', 'business', 'sandbox']",microsoft xna,e10
+agatha christie: the abc murders,0.1,"['point-and-click', 'puzzle', 'adventure']","['action', 'thriller', 'mystery']",unity,t
+starlink: battle for atlas,0.1,"['shooter', 'real time strategy (rts)', 'role-playing (rpg)', 'simulator', 'strategy', 'adventure', 'arcade']","['action', 'science fiction']",snowdrop,e10
+minority report: everybody runs,0.1,"[""hack and slash/beat 'em up""]","['action', 'science fiction']",trerarch ngl,t
+bullet witch,0.1,['shooter'],"['action', 'science fiction', 'horror']",novicex,m
+the whispered world,0.16,"['point-and-click', 'puzzle', 'adventure']","['fantasy', 'comedy']",visionaire,e
+opoona,0.1,"['platform', 'puzzle', 'role-playing (rpg)']","['action', 'fantasy', 'science fiction', 'comedy']",in-house engine,e10
+ultra street fighter iv,0.1,"['fighting', 'arcade']",['action'],taito type x,t
+tornado outbreak,0.1,['adventure'],['action'],granny 3d,e10
+darkest of days,0.1,['shooter'],"['action', 'science fiction', 'historical', 'warfare']",marmoset,m
+the technomancer,0.09,"['role-playing (rpg)', 'adventure']","['action', 'science fiction']",silk engine,m
+red faction: guerrilla re-mars-tered,0.09,"['shooter', 'adventure', 'arcade']","['action', 'science fiction', 'sandbox', 'open world', 'warfare']",geo-mod 2.0,m
+age of empires ii: the age of kings,2.0,"['real time strategy (rts)', 'strategy']","['historical', 'warfare']",genie engine,t
+hearts of iron iv,1.35,"['real time strategy (rts)', 'simulator', 'strategy']","['historical', 'warfare']",clausewitz engine,t
+echochrome,0.09,['puzzle'],"['fantasy', 'historical']",object locative environment coordinate system,e
+new legends,0.09,['adventure'],"['action', 'science fiction']",unreal engine,t
+gripshift,0.09,"['puzzle', 'racing']",['action'],phyreengine,e10
+american truck simulator,0.09,"['racing', 'simulator', 'indie']","['business', 'non-fiction', 'open world']",prism3d,e
+dark souls trilogy,0.09,"['role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy', 'horror']",phyreengine,m
+paragon,0.09,['moba'],['science fiction'],unreal engine 4,t
+jumper: griffin's story,0.09,"['platform', ""hack and slash/beat 'em up""]","['action', 'science fiction']",vicious engine,t
+america's army: true soldiers,0.08,"['shooter', 'tactical']",['warfare'],yeti,t
+blacksite: area 51,0.08,"['shooter', 'adventure']","['action', 'science fiction', 'horror']",unreal engine,t
+age of mythology,1.37,"['real time strategy (rts)', 'strategy']","['fantasy', 'historical']",bang!,t
+counter-strike: source,15.0,['shooter'],['action'],source,m
+the sims 2: apartment life,0.08,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims 2 engine,t
+star wars: empire at war,0.08,"['real time strategy (rts)', 'strategy']","['action', 'science fiction']",alamo,t
+the sexy brutale,0.08,"['puzzle', 'adventure', 'indie']",['mystery'],unity,t
+the king of fighters 2006,0.08,['fighting'],"['fantasy', 'science fiction']",renderware,t
+edna & harvey: harvey's new eyes,0.22,"['point-and-click', 'puzzle', 'adventure', 'indie']","['horror', 'comedy']",visionaire,t
+the sims 3: fast lane stuff,0.08,"['simulator', 'strategy']",['sandbox'],the sims 3 engine,t
+"warhammer 40,000: dawn of war ii - retribution",0.08,"['real time strategy (rts)', 'strategy']",['science fiction'],essence engine,m
+the sims 2: ikea home stuff,0.08,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims 2 engine,t
+battlefield 2,2.25,['shooter'],"['action', 'warfare']",refractor engine,t
+child of light,0.08,"['platform', 'role-playing (rpg)', 'adventure']",['fantasy'],ubiart framework,e10
+serious sam 3: bfe,2.03,"['shooter', 'puzzle', 'indie']","['action', 'science fiction', 'comedy', 'warfare']",serious engine,m
+futurama,0.07,"['platform', 'puzzle']","['action', 'comedy']",gamebryo,t
+i am setsuna,0.07,"['role-playing (rpg)', 'adventure']","['fantasy', 'drama']",unity,e10
+still life,0.07,"['puzzle', 'adventure']","['horror', 'drama', 'mystery']",virtools engine,m
+wrath unleashed,0.07,"['fighting', 'role-playing (rpg)', 'strategy', 'adventure']",['action'],slayer,t
+the lord of the rings: the battle for middle-earth,1.0,"['real time strategy (rts)', 'strategy']","['fantasy', 'warfare']",sage,t
+styx: shards of darkness,0.07,"['role-playing (rpg)', 'adventure']","['action', 'fantasy', 'stealth']",unreal engine,m
+combat: task force 121,0.07,['shooter'],"['action', 'warfare']",unreal engine 2,m
+elements of destruction,0.07,['strategy'],['science fiction'],vicious engine,t
+serious sam: next encounter,0.07,['shooter'],"['action', 'science fiction', 'comedy']",serious engine,m
+the book of unwritten tales 2,0.07,"['point-and-click', 'puzzle', 'adventure']","['action', 'fantasy', 'comedy']",unity,t
+the silver case,0.07,"['puzzle', 'adventure', 'visual novel']","['action', 'mystery']",unity,m
+poi,0.07,"['platform', 'adventure', 'indie']","['action', 'fantasy']",unity,e10
+goodbye deponia,0.17,"['point-and-click', 'puzzle', 'adventure', 'indie']","['science fiction', 'comedy']",visionaire,t
+drake of the 99 dragons,0.07,['shooter'],"['action', 'horror']",fxengine,t
+broken sword 5: the serpent's curse,0.07,"['point-and-click', 'puzzle', 'role-playing (rpg)', 'adventure']","['fantasy', 'historical']",virtual theatre,t
+fable: the lost chapters,0.07,"['role-playing (rpg)', 'adventure']","['action', 'fantasy', 'comedy', 'sandbox']",gamebryo,m
+samurai shodown,0.07,['fighting'],['action'],unreal engine 4,m
+obscure,0.07,['adventure'],"['action', 'horror', 'survival']",renderware,m
+the sims 2: seasons,0.07,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims 2 engine,t
+batman: the enemy within,0.07,"['point-and-click', 'adventure']",['action'],telltale tool,m
+zombi,0.07,"['shooter', 'adventure']","['action', 'horror', 'survival']",lyn,m
+fallout: brotherhood of steel,0.07,"['role-playing (rpg)', ""hack and slash/beat 'em up""]","['action', 'science fiction', 'comedy']",dark alliance engine,m
+command & conquer 3: tiberium wars,0.07,"['real time strategy (rts)', 'simulator', 'strategy']",['science fiction'],sage,t
+aven colony,0.06,"['simulator', 'strategy', 'indie']","['science fiction', 'survival', 'sandbox']",unreal engine,e10
+age of empires iii: the asian dynasties,0.06,"['real time strategy (rts)', 'simulator', 'strategy']","['fantasy', 'historical', 'warfare', '4x (explore, expand, exploit, and exterminate)']",havok physics,t
+the sims 4: get famous,0.06,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",smartsim,t
+age of empires online,0.06,"['real time strategy (rts)', 'role-playing (rpg)', 'strategy']","['action', 'fantasy', 'historical', 'warfare']",genie engine,e10
+giants: citizen kabuto,0.06,"['shooter', 'real time strategy (rts)', 'role-playing (rpg)', 'adventure']","['action', 'science fiction', 'comedy']",amityville,m
+sherlock holmes: the devil's daughter,0.06,"['puzzle', 'adventure']","['action', 'thriller', 'mystery']",unreal engine,t
+serious sam ii,0.06,"['shooter', 'indie']","['action', 'science fiction', 'comedy', 'warfare']",serious engine,m
+commandos: strike force,0.06,['shooter'],"['action', 'historical', 'warfare']",renderware,t
+s.t.a.l.k.e.r.: call of pripyat,0.06,"['shooter', 'role-playing (rpg)']","['action', 'horror', 'survival']",x-ray engine,m
+game of thrones: a telltale games series,0.06,"['point-and-click', 'adventure']","['fantasy', 'historical', 'drama']",telltale tool,m
+zoo tycoon 2,0.06,"['simulator', 'strategy']","['business', 'educational']",netimmerse,e
+enemy front,0.06,['shooter'],"['action', 'stealth', 'warfare']",cryengine,m
+age of mythology: the titans,0.06,"['real time strategy (rts)', 'strategy']","['fantasy', 'historical']",bang!,t
+battle chasers: nightwar,0.06,"['role-playing (rpg)', 'strategy', 'turn-based strategy (tbs)', 'indie']","['action', 'fantasy']",unity,t
+s.t.a.l.k.e.r.: shadow of chernobyl,2.0,"['shooter', 'role-playing (rpg)']","['action', 'science fiction', 'horror', 'survival', 'sandbox']",x-ray engine,m
+v-rally 3,0.06,['racing'],['action'],twilight,e
+marc ecko's getting up: contents under pressure,0.05,"['racing', 'strategy', ""hack and slash/beat 'em up"", 'adventure']","['action', 'stealth']",slayer,m
+titan quest,1.04,"['role-playing (rpg)', ""hack and slash/beat 'em up""]","['action', 'fantasy']",pathengine,t
+rez,0.05,"['shooter', 'music']",['action'],unreal engine,e
+owlboy,0.05,"['platform', 'puzzle', 'adventure', 'indie']","['action', 'fantasy', 'science fiction']",microsoft xna,e10
+the sims 2: university,0.05,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims 2 engine,t
+the long dark,0.05,"['shooter', 'simulator', 'strategy', 'adventure', 'indie']","['action', 'survival', 'open world']",unity,t
+myst iv: revelation,0.05,"['puzzle', 'adventure']","['fantasy', 'drama', 'mystery']",alive,t
+hellblade: senua's sacrifice,0.05,"[""hack and slash/beat 'em up"", 'adventure', 'indie']","['action', 'fantasy', 'historical']",unreal engine,m
+stellaris,1.97,"['real time strategy (rts)', 'simulator', 'strategy']","['science fiction', '4x (explore, expand, exploit, and exterminate)']",clausewitz engine,e10
+little busters! converted edition,0.05,"['adventure', 'visual novel']","['comedy', 'drama']",real live,t
+max & the magic marker,0.05,"['platform', 'puzzle', 'indie']","['action', 'comedy']",unity,e
+the typing of the dead,0.05,['shooter'],"['action', 'horror', 'survival', 'comedy', 'educational']",sega naomi,m
+rollercoaster tycoon world,0.18,"['simulator', 'strategy']","['business', 'sandbox']",unity,e
+outrun 2006: coast 2 coast,0.05,['racing'],['action'],sunshine engine,e
+orcs & elves,0.05,['role-playing (rpg)'],['fantasy'],doom rpg,t
+far cry,2.5,['shooter'],"['action', 'science fiction']",cryengine,m
+devil's third,0.05,"['fighting', 'shooter', ""hack and slash/beat 'em up"", 'adventure']",['action'],unreal engine,m
+dead alliance,0.04,['shooter'],"['action', 'survival']",unreal engine 4,m
+company of heroes,0.04,"['real time strategy (rts)', 'strategy']","['action', 'historical', 'warfare']",havok physics,m
+raid: world war ii,0.04,"['shooter', 'role-playing (rpg)', 'adventure']",['action'],diesel,m
+moonlighter,0.15,"['role-playing (rpg)', 'simulator', ""hack and slash/beat 'em up"", 'adventure', 'indie']","['action', 'fantasy', 'business']",unity,e10
+vikings: wolves of midgard,0.04,"['role-playing (rpg)', ""hack and slash/beat 'em up""]","['action', 'fantasy']",unity,m
+rogue trooper,0.04,['shooter'],"['action', 'science fiction', 'stealth']",asura,t
+ride to hell: retribution,0.04,"['shooter', ""hack and slash/beat 'em up"", 'adventure']","['action', 'historical']",unreal engine,m
+the talos principle,0.04,"['puzzle', 'adventure', 'indie']","['action', 'science fiction']",serious engine 4,t
+total war: warhammer ii,0.96,"['real time strategy (rts)', 'strategy']","['action', 'fantasy']",tw engine 3,t
+myth makers: trixie in toyland,0.04,['platform'],['action'],renderware,e
+gravity falls: legend of the gnome gemulets,0.04,['platform'],"['action', 'comedy', 'kids', 'mystery']",ubiart framework,e
+planet coaster,2.5,"['simulator', 'strategy', 'adventure']","['action', 'sandbox']",cobra,e
+painkiller: hell & damnation,0.04,['shooter'],"['action', 'horror']",unreal engine 3,m
+playstation move ape escape,0.04,['shooter'],"['action', 'comedy', 'party']",havok,e10
+company of heroes: tales of valor,0.04,"['real time strategy (rts)', 'strategy']","['action', 'historical', 'warfare']",havok physics,m
+antz extreme racing,0.04,['racing'],"['action', 'comedy', 'kids']",renderware,e
+heroes of might and magic v,0.35,"['role-playing (rpg)', 'strategy', 'turn-based strategy (tbs)']",['fantasy'],silent storm engine,t
+guild wars,6.5,"['role-playing (rpg)', 'strategy', 'adventure']","['action', 'fantasy', 'historical']",arenanet guild wars,t
+clannad,0.04,"['adventure', 'visual novel']","['comedy', 'drama']",siglus,t
+aragami,0.04,"['adventure', 'indie']","['action', 'stealth']",unity,m
+yonder: the cloud catcher chronicles,0.04,"['puzzle', 'adventure', 'indie']","['action', 'kids', 'open world', 'mystery']",unity,e
+company of heroes: opposing fronts,0.04,"['real time strategy (rts)', 'strategy']","['action', 'historical', 'warfare']",havok physics,m
+headhunter: redemption,0.04,"['shooter', 'adventure']","['action', 'science fiction']",renderware,m
+drakensang: the dark eye,0.04,"['role-playing (rpg)', 'adventure']","['fantasy', 'historical', 'sandbox', 'open world']",nebula device,t
+the sims 4: spa day,0.04,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",smartsim,t
+dreamfall: the longest journey,0.04,"['puzzle', 'role-playing (rpg)', 'adventure']","['action', 'fantasy', 'science fiction', 'mystery']",shark 3d,m
+the caligula effect: overdose,0.04,"['role-playing (rpg)', 'adventure']","['action', 'science fiction']",unreal engine,m
+empire earth iii,0.04,"['real time strategy (rts)', 'simulator', 'strategy']","['science fiction', '4x (explore, expand, exploit, and exterminate)']",gamebryo,t
+"warhammer 40,000: dawn of war iii",0.04,"['real time strategy (rts)', 'simulator', 'strategy']","['action', 'fantasy', 'science fiction']",essence engine,m
+abzu,0.04,"['puzzle', 'simulator', 'adventure', 'indie']","['action', 'educational']",unreal engine,e
+the movies,0.04,"['simulator', 'strategy']","['comedy', 'business']",in-house engine,t
+shadow tactics: blades of the shogun,0.04,"['real time strategy (rts)', 'simulator', 'strategy', 'tactical', 'indie']","['action', 'stealth']",unity,m
+darkest dungeon,0.04,"['role-playing (rpg)', 'strategy', 'turn-based strategy (tbs)', 'adventure', 'indie']","['fantasy', 'horror', 'historical']",custom built engine,t
+without warning,0.04,"['shooter', 'puzzle', 'arcade']",['action'],renderware,m
+apb reloaded,0.04,"['shooter', 'adventure']",['action'],unreal engine 3,m
+sid meier's railroads!,0.04,"['simulator', 'strategy']",['business'],gamebryo,e
+might & magic x: legacy,0.04,"['puzzle', 'role-playing (rpg)']",['fantasy'],unity,t
+planescape: torment,0.03,"['role-playing (rpg)', 'strategy']","['fantasy', 'drama']",infinity engine,t
+s.t.a.l.k.e.r.: clear sky,0.03,"['shooter', 'role-playing (rpg)']","['action', 'horror', 'survival']",x-ray engine,m
+alpha protocol,0.03,"['shooter', 'role-playing (rpg)']","['action', 'stealth']",unreal engine,m
+powerslave,0.03,['shooter'],"['action', 'fantasy']",build,m
+flashback,0.03,"['platform', 'role-playing (rpg)', 'adventure']","['action', 'science fiction']",unreal engine 3,t
+the sims 2: glamour life stuff,0.03,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims 2 engine,t
+all-star fruit racing,0.03,"['racing', 'sport', 'indie']",['action'],unreal engine 4,e
+override: mech city brawl,0.03,"['fighting', 'indie']","['action', 'science fiction']",unreal engine 4,t
+neverwinter nights,2.2,"['role-playing (rpg)', 'adventure']",['fantasy'],aurora engine,t
+empire earth ii,0.03,"['real time strategy (rts)', 'simulator', 'strategy']","['4x (explore, expand, exploit, and exterminate)']",gamebryo,t
+sins of a solar empire,0.5,"['real time strategy (rts)', 'strategy', 'tactical']","['science fiction', '4x (explore, expand, exploit, and exterminate)']",iron engine,t
+syberia ii,0.03,"['point-and-click', 'puzzle', 'adventure']","['drama', 'mystery']",virtools engine,t
+blackguards 2,0.03,"['role-playing (rpg)', 'strategy', 'turn-based strategy (tbs)', 'adventure', 'indie']","['action', 'fantasy', 'warfare', 'party']",unity,m
+age of conan: rise of the godslayer,0.03,"['role-playing (rpg)', 'adventure']","['action', 'fantasy']",dreamworld,m
+this war of mine,0.03,"['simulator', 'strategy', 'adventure', 'indie']","['action', 'horror', 'survival', 'stealth', 'drama', 'warfare']",in-house engine,m
+battlefield vietnam,1.36,['shooter'],"['action', 'historical', 'warfare']",refractor engine,t
+magicka,2.8,"['role-playing (rpg)', 'strategy', 'adventure', 'indie']","['action', 'fantasy', 'comedy', 'drama']",microsoft xna,t
+age of empires iii: gold edition,0.03,"['point-and-click', 'real time strategy (rts)', 'strategy']","['historical', 'warfare']",havok physics,t
+guild wars: nightfall,0.03,"['puzzle', 'role-playing (rpg)', 'strategy', 'adventure']","['action', 'fantasy', 'historical']",arenanet guild wars,t
+agony,0.03,"['shooter', 'adventure', 'indie']","['action', 'horror', 'survival']",unreal engine,m
+botanicula,0.33,"['point-and-click', 'puzzle', 'adventure', 'indie']","['fantasy', 'comedy', 'kids', 'party']",adobe flash player,e10
+the sims 2: bon voyage,0.03,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims 2 engine,t
+battlefield 2142,0.03,['shooter'],"['action', 'science fiction']",refractor engine,t
+star wars: empire at war - forces of corruption,0.03,"['real time strategy (rts)', 'strategy']","['action', 'science fiction', 'warfare']",alamo,t
+swat 4,0.02,"['shooter', 'strategy', 'tactical']","['action', 'stealth']",vengeance engine,m
+battlefield 2: modern combat,0.02,['shooter'],['action'],renderware,t
+redout,0.02,"['racing', 'arcade']",['science fiction'],unreal engine,e
+neverwinter nights 2,0.02,"['role-playing (rpg)', 'adventure']",['fantasy'],aurora engine,t
+the settlers: rise of an empire,0.1,"['real time strategy (rts)', 'simulator', 'strategy']","['historical', '4x (explore, expand, exploit, and exterminate)']",renderware,e10
+catan,0.02,"['strategy', 'quiz/trivia', 'card & board game']","['fantasy', 'historical']",phyreengine,e
+chili con carnage,0.02,['shooter'],['action'],kapow systems 3d,m
+warhammer online: age of reckoning,1.5,['role-playing (rpg)'],"['action', 'fantasy']",emotion fx,t
+star trek online,0.02,"['role-playing (rpg)', 'simulator', 'strategy', 'tactical', 'adventure']","['action', 'science fiction', 'warfare']",cryptic engine,t
+europa universalis iii complete,0.02,"['real time strategy (rts)', 'strategy']",['historical'],clausewitz engine,e10
+dungeons 2,0.02,"['real time strategy (rts)', 'role-playing (rpg)', 'simulator', 'strategy']","['fantasy', 'comedy']",unity,t
+quake 4,0.02,['shooter'],"['action', 'science fiction', 'horror']",id tech 4,m
+frontlines: fuel of war,0.02,['shooter'],"['action', 'science fiction']",unreal engine,t
+undertale,0.02,"['role-playing (rpg)', 'turn-based strategy (tbs)', 'adventure', 'indie']","['fantasy', 'horror', 'comedy', 'drama']",gamemaker: studio,e10
+tricky towers,0.02,"['puzzle', 'indie', 'arcade']","['action', 'kids', 'party']",unity,e
+unreal anthology,0.02,['shooter'],"['action', 'science fiction']",unreal engine,m
+the sims: complete collection,0.02,"['role-playing (rpg)', 'simulator', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims engine,t
+the lord of the rings: the battle for middle-earth ii,0.02,"['real time strategy (rts)', 'strategy']","['fantasy', 'warfare']",sage,t
+legend: hand of god,0.02,['role-playing (rpg)'],['action'],unreal engine,m
+painkiller,0.02,"['shooter', 'puzzle']","['action', 'horror']",havok physics,m
+armello,0.02,"['role-playing (rpg)', 'simulator', 'strategy', 'turn-based strategy (tbs)', 'quiz/trivia', 'adventure', 'indie', 'card & board game']",['fantasy'],unity,e10
+the sims 2: happy holiday stuff,0.02,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims 2 engine,t
+the lord of the rings online: mines of moria,0.02,"['role-playing (rpg)', 'adventure']",['fantasy'],turbine g3,t
+hellgate: london,0.02,"['shooter', 'role-playing (rpg)']","['action', 'science fiction', 'horror', 'survival']",havok physics,m
+red dead redemption: game of the year edition,0.02,['shooter'],['sandbox'],euphoria engine,m
+the sims 2: family fun stuff,0.02,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims 2 engine,t
+broken sword: the sleeping dragon,0.02,"['point-and-click', 'puzzle', 'adventure']","['fantasy', 'thriller', 'historical', 'drama']",renderware,t
+starship troopers,0.02,['shooter'],['science fiction'],swarm,m
+flatout 4: total insanity,0.02,['racing'],['action'],nvidia physx,t
+runbow,0.02,"['platform', 'racing', 'adventure', 'indie']","['action', 'comedy', 'party']",unity,e
+unreal tournament 2004,0.02,['shooter'],"['action', 'science fiction']",unreal engine 2.5,m
+disciples iii: renaissance,0.02,"['role-playing (rpg)', 'strategy', 'turn-based strategy (tbs)']","['fantasy', 'historical']",virtual dream,t
+the sims 4: luxury party stuff,0.02,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",smartsim,t
+space hulk: deathwing,0.02,"['shooter', ""hack and slash/beat 'em up"", 'adventure']","['action', 'science fiction']",unreal engine,m
+enemy territory: quake wars,0.02,"['shooter', 'strategy']","['action', 'science fiction']",id tech 4,t
+yoku's island express,0.02,"['platform', 'puzzle', 'pinball', 'adventure', 'indie', 'arcade']","['action', 'fantasy']",custom built engine,e10
+command & conquer 4: tiberian twilight,0.01,"['real time strategy (rts)', 'strategy']",['science fiction'],sage,t
+torment: tides of numenera,0.01,"['role-playing (rpg)', 'strategy', 'turn-based strategy (tbs)', 'adventure', 'indie']","['fantasy', 'science fiction']",unity,m
+let it die,0.01,"[""hack and slash/beat 'em up""]","['action', 'horror', 'comedy']",unreal engine,m
+guild wars: factions,0.01,"['role-playing (rpg)', 'strategy', 'adventure']","['action', 'fantasy', 'educational']",arenanet guild wars,t
+sengoku,0.01,"['real time strategy (rts)', 'role-playing (rpg)', 'simulator', 'strategy']","['historical', 'warfare']",clausewitz engine,t
+neverwinter nights 2: mask of the betrayer,0.01,"['role-playing (rpg)', 'tactical']",['fantasy'],aurora engine,t
+unreal tournament 2003,0.01,['shooter'],"['action', 'science fiction']",unreal engine 2,m
+kao the kangaroo,0.01,"['platform', 'adventure', 'arcade']","['action', 'fantasy', 'comedy', 'kids']",unreal engine 4,e10
+f.e.a.r. perseus mandate,0.01,['shooter'],"['action', 'science fiction', 'horror']",lithtech jupiter ex,m
+capcom beat 'em up bundle,0.01,"['fighting', ""hack and slash/beat 'em up"", 'arcade']",['action'],mt framework,t
+space hulk,0.01,"['strategy', 'turn-based strategy (tbs)', 'indie', 'card & board game']",['science fiction'],unity,t
+horse life 4,0.01,['role-playing (rpg)'],"['kids', 'open world']",in-house engine,e
+icewind dale ii,0.01,"['role-playing (rpg)', 'strategy']","['action', 'fantasy']",infinity engine,t
+transformers: fall of cybertron,0.01,"['shooter', 'adventure']","['action', 'science fiction']",unreal engine 3,t
+muv-luv alternative,0.01,['visual novel'],"['science fiction', 'drama', 'warfare', 'romance']",rugp,m
+king's bounty: armored princess,0.01,"['role-playing (rpg)', 'strategy', 'turn-based strategy (tbs)', 'adventure']","['fantasy', 'historical']",theengine,t
+trine,0.01,"['platform', 'puzzle', 'adventure', 'indie']","['action', 'fantasy']",nvidia physx,e10
+zombie vikings,0.01,"[""hack and slash/beat 'em up"", 'adventure', 'indie']","['action', 'fantasy', 'horror', 'comedy']",unity,t
+ziggurat,0.01,"['shooter', 'role-playing (rpg)', 'indie']","['action', 'fantasy', 'science fiction']",unity,t
+muv-luv,0.01,['visual novel'],"['comedy', 'drama', 'romance']",rugp,m
+hyperdimension neptunia mk2,0.01,"['role-playing (rpg)', 'tactical']","['fantasy', 'science fiction', 'comedy']",phyreengine,m
+necrovision,0.01,['shooter'],"['action', 'fantasy', 'science fiction', 'horror', 'historical', 'warfare']",havok physics,m
+heroes of the storm,0.01,['moba'],"['action', 'fantasy', 'science fiction']",in house engine,t
+command & conquer: generals,0.01,"['real time strategy (rts)', 'strategy']","['science fiction', 'warfare']",sage,t
+giana sisters: twisted dreams,0.01,"['platform', 'puzzle', 'adventure', 'indie']","['action', 'fantasy']",vision,e
+pirates of black cove,0.01,"['real time strategy (rts)', 'role-playing (rpg)', 'strategy', 'adventure']","['action', 'historical']",physx,t
+the escapists,1.3,"['puzzle', 'role-playing (rpg)', 'simulator', 'strategy', 'tactical', 'adventure', 'indie']","['action', 'stealth', 'comedy', 'sandbox']",unity,t
+ori and the blind forest: definitive edition,1.76,"['platform', 'adventure']","['action', 'fantasy', 'open world']",unity,e
+teenage mutant ninja turtles: out of the shadows,0.01,"[""hack and slash/beat 'em up"", 'adventure']",['action'],unreal engine,t
+the sims 2: h&m fashion stuff,0.01,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims 2 engine,t
+pain,0.01,['sport'],"['action', 'comedy', 'sandbox']",havoc,t
+age of mythology: gold edition,0.01,"['real time strategy (rts)', 'strategy']","['fantasy', 'historical', 'drama', 'warfare']",bang!,t
+neverwinter nights 2: storm of zehir,0.01,['role-playing (rpg)'],['fantasy'],aurora engine,t
+magus,0.01,"['racing', 'role-playing (rpg)', 'adventure']",['action'],unreal engine,t
+deponia doomsday,0.12,"['point-and-click', 'puzzle', 'adventure', 'indie']","['science fiction', 'comedy']",visionaire,m
+deadfall adventures,0.01,"['shooter', 'puzzle', 'adventure']","['action', 'fantasy', 'historical']",unreal engine 3,m
+bus driver,0.01,"['racing', 'simulator', 'indie']",['non-fiction'],prism3d,e
+burn zombie burn!,0.01,"['shooter', 'adventure', 'arcade']","['action', 'horror', 'comedy']",phyreengine,m
+duke nukem advance,0.01,['shooter'],"['action', 'science fiction']",southpaw,t
+hyper light drifter,0.01,"['role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure', 'indie']","['action', 'fantasy', 'science fiction']",gamemaker: studio,t
+teslagrad,0.01,"['platform', 'puzzle', 'adventure', 'indie']","['action', 'science fiction']",unity,e
+the escapists: the walking dead,0.01,"['puzzle', 'role-playing (rpg)', 'simulator', 'strategy', 'indie', 'arcade']","['action', 'survival']",unity,t
+europa universalis iii,0.01,"['real time strategy (rts)', 'strategy']",['historical'],clausewitz engine,e
+portal,9.97,"['shooter', 'platform', 'puzzle']","['action', 'science fiction', 'comedy']",source,t
+broken age,0.42,"['point-and-click', 'puzzle', 'quiz/trivia', 'adventure', 'indie']","['fantasy', 'science fiction', 'comedy']",moai,e10
+jade empire: special edition,0.0,"['role-playing (rpg)', 'adventure']","['action', 'fantasy']",odyssey,t
+the witness,0.0,"['puzzle', 'adventure', 'indie']","['science fiction', 'open world', 'mystery']",custom built engine,e
+the sims 2: teen style stuff,0.0,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims 2 engine,t
+resident evil 5: gold edition,0.0,"['shooter', 'role-playing (rpg)', 'strategy', 'adventure']","['action', 'horror', 'survival']",mt framework,m
+faces of war,0.0,"['real time strategy (rts)', 'simulator', 'strategy', 'tactical']","['action', 'historical', 'warfare']",gem,m
+crusader kings ii,1.0,"['role-playing (rpg)', 'simulator', 'strategy']","['fantasy', 'historical']",clausewitz engine,t
+war thunder,0.0,"['shooter', 'simulator', 'tactical']","['action', 'historical', 'warfare']",dagor engine,t
+return to castle wolfenstein,1.0,['shooter'],"['action', 'fantasy', 'science fiction', 'horror', 'historical']",id tech 3,m
+medal of honor: allied assault,0.0,['shooter'],"['action', 'historical', 'warfare']",id tech 3,t
+medieval: total war,0.0,"['real time strategy (rts)', 'strategy', 'turn-based strategy (tbs)', 'tactical']","['fantasy', 'historical', 'warfare', '4x (explore, expand, exploit, and exterminate)']",tw engine 1,t
+medal of honor: pacific assault,0.0,['shooter'],"['action', 'historical', 'warfare']",havok physics,t
+the raven: legacy of a master thief,0.0,"['point-and-click', 'adventure']","['fantasy', 'thriller', 'historical', 'mystery']",unity,t
+star wars: the force unleashed - ultimate sith edition,0.0,"['role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy', 'science fiction']",ronin,t
+planetary annihilation,1.68,"['real time strategy (rts)', 'strategy']","['action', 'science fiction', 'warfare']",custom built engine,e10
+state of decay,1.49,"['shooter', 'role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['action', 'horror', 'survival', 'sandbox', 'open world']",cryengine,m
+rc de go!,0.0,"['racing', 'simulator', 'sport']",['non-fiction'],taito g-net,e
+star wars: galactic battlegrounds,0.0,"['real time strategy (rts)', 'simulator', 'strategy']","['action', 'science fiction']",genie engine,t
+shadow warrior,0.0,"['fighting', 'shooter']","['action', 'science fiction', 'comedy']",build,m
+sonic & all-stars racing transformed,0.0,"['racing', 'sport']","['action', 'fantasy', 'science fiction', 'comedy']",starlight,e10
+american mcgee's alice,1.5,"['platform', 'puzzle', 'adventure']","['action', 'horror']",id tech 3,m
+from dust,0.0,"['simulator', 'strategy', 'adventure']","['fantasy', 'sandbox', 'open world']",lyn,e10
+the sims 2: freetime,0.0,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims 2 engine,t
+watchmen: the end is nigh,0.0,"[""hack and slash/beat 'em up""]","['action', 'fantasy', 'science fiction', 'historical']",kapow,m
+myst v: end of ages,0.0,"['puzzle', 'strategy', 'adventure']","['fantasy', 'science fiction', 'drama', 'mystery']",plasma,e
+f.e.a.r.,0.0,['shooter'],"['action', 'science fiction', 'horror']",lithtech,m
+the history channel: great battles of rome,0.0,"['real time strategy (rts)', 'strategy']","['historical', 'educational']",legion,t
+alpha prime,0.0,['shooter'],"['action', 'science fiction']",enforce,m
+team fortress 2,0.0,['shooter'],"['action', 'comedy']",source,m
+clive barker's undying,0.0,"['shooter', 'puzzle', 'adventure']","['action', 'horror', 'survival']",unreal engine,m
+x3: reunion,0.0,"['role-playing (rpg)', 'simulator', 'strategy']","['action', 'sandbox']",x3 reality,t
+the elder scrolls iv: oblivion - game of the year edition,0.0,"['role-playing (rpg)', 'adventure']","['action', 'fantasy', 'historical', 'sandbox', 'open world']",radiant ai,m
+the sims 2: kitchen & bath interior design stuff,0.0,"['role-playing (rpg)', 'simulator', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims 2 engine,t
+"warhammer 40,000: eternal crusade",0.0,"['shooter', 'role-playing (rpg)', 'adventure']","['action', 'science fiction']",unreal engine,t
+beyond divinity,0.0,['role-playing (rpg)'],"['action', 'fantasy']",divinity engine,m
+blitzkrieg,0.0,"['real time strategy (rts)', 'strategy', 'tactical']","['action', 'historical']",enigma engine,t
+torchlight ii,3.0,"['role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure', 'indie']","['action', 'fantasy']",ogre,t
+delta force 2,0.0,"['shooter', 'tactical']","['action', 'warfare']",voxel space,t
+nexus: the jupiter incident,0.0,"['role-playing (rpg)', 'simulator', 'strategy', 'tactical', 'indie']","['action', 'fantasy', 'science fiction', 'historical']",black sun engine,t
+operation flashpoint: cold war crisis,2.0,"['shooter', 'simulator', 'strategy', 'tactical']","['action', 'historical', 'warfare']",real virtuality,m
+counter-strike: condition zero,2.9,['shooter'],['action'],goldsrc,m
+penumbra: overture,0.0,"['puzzle', 'adventure', 'indie']","['action', 'horror', 'survival']",hpl,m
+half-life 2: episode one,3.92,['shooter'],"['action', 'science fiction', 'horror']",source,m
+king's bounty: the legend,0.0,"['role-playing (rpg)', 'simulator', 'strategy', 'turn-based strategy (tbs)']","['fantasy', 'comedy']",theengine,t
+9 clues 2: the ward,0.0,"['point-and-click', 'puzzle', 'adventure']","['thriller', 'kids', 'mystery']",spark casual engine,t
+age of pirates: caribbean tales,0.0,"['role-playing (rpg)', 'simulator']",['historical'],storm engine,t
+space siege,0.0,['role-playing (rpg)'],"['action', 'science fiction']",physx,t
+gothic ii,0.2,"['role-playing (rpg)', 'strategy', 'adventure']","['action', 'fantasy', 'horror', 'survival', 'open world']",zengin,m
+stronghold 2,0.3,"['real time strategy (rts)', 'simulator', 'strategy']","['action', 'historical', 'sandbox', 'warfare']",dragonfly,t
+the sims 3: pets,0.0,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims 3 engine,t
+quake iii arena,1.0,['shooter'],"['action', 'science fiction']",id tech 3,m
+wizardry 8,0.0,"['role-playing (rpg)', 'adventure']",['fantasy'],surrender 3d,t
+day of defeat,0.0,['shooter'],"['action', 'warfare']",goldsrc,t
+system shock 2,0.0,"['shooter', 'puzzle', 'role-playing (rpg)']","['action', 'science fiction', 'horror', 'survival']",dark engine,m
+oni,0.0,"['shooter', ""hack and slash/beat 'em up""]","['action', 'science fiction']",blam! engine,t
+heroes of might and magic v: tribes of the east,0.0,"['role-playing (rpg)', 'strategy', 'turn-based strategy (tbs)']",['fantasy'],silent storm engine,t
+operation flashpoint: resistance,0.0,"['shooter', 'simulator', 'strategy', 'tactical']","['action', 'warfare']",real virtuality,m
+the sims 3: showtime,0.0,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure']","['fantasy', 'comedy', 'sandbox', 'romance']",the sims 3 engine,t
+nuclear dawn,0.0,"['shooter', 'real time strategy (rts)', 'strategy', 'tactical']","['action', 'science fiction', 'warfare']",source,m
+europa universalis iv,1.0,"['real time strategy (rts)', 'simulator', 'strategy']","['fantasy', 'historical']",clausewitz engine,t
+rallisport challenge,0.0,"['racing', 'simulator', 'sport']",['non-fiction'],refractor engine,e
+titan quest: immortal throne,0.0,"['role-playing (rpg)', ""hack and slash/beat 'em up""]","['action', 'fantasy', 'historical']",pathengine,t
+fantasy wars,0.0,"['role-playing (rpg)', 'strategy', 'turn-based strategy (tbs)', 'tactical']","['fantasy', 'warfare']",theengine,t
+the curse of monkey island,0.0,"['point-and-click', 'puzzle', 'adventure']","['fantasy', 'historical', 'comedy']",scumm,e
+age of empires iii: the warchiefs,0.0,"['real time strategy (rts)', 'simulator', 'strategy']","['fantasy', 'historical', 'warfare', '4x (explore, expand, exploit, and exterminate)']",havok physics,t
+gothic 3: forsaken gods,0.0,['role-playing (rpg)'],"['action', 'fantasy']",genome,t
+trackmania,0.0,"['racing', 'sport', 'arcade']",['action'],maniaplanet,e
+overclocked: a history of violence,0.0,"['point-and-click', 'adventure', 'indie']","['action', 'mystery']",cougar adventure engine,m
+gone home,0.0,"['point-and-click', 'music', 'puzzle', 'adventure', 'indie']","['action', 'drama', 'mystery']",unity,m
+swat 4: the stetchkov syndicate,0.0,"['shooter', 'simulator', 'strategy', 'tactical']","['action', 'stealth']",vengeance engine,m
+tron 2.0,0.0,"['shooter', 'racing', 'role-playing (rpg)']","['action', 'science fiction']",lithtech triton,t
+earth 2160,0.0,"['real time strategy (rts)', 'strategy']","['action', 'science fiction']",earth-4,t
+freedom force,0.0,"['role-playing (rpg)', 'strategy', 'tactical']","['action', 'comedy']",netimmerse,t
+serious sam: the second encounter,0.0,"['shooter', 'indie']","['action', 'science fiction', 'comedy']",serious engine,m
+pillars of eternity ii: deadfire,0.2,"['role-playing (rpg)', 'adventure']",['fantasy'],unity,m
+keepsake,0.0,"['point-and-click', 'puzzle', 'adventure', 'indie']",['fantasy'],crystal space,e
+sam & max hit the road,0.0,"['point-and-click', 'puzzle', 'adventure']","['science fiction', 'comedy']",scumm,t
+silent hill: homecoming,0.0,"['fighting', 'adventure']","['horror', 'survival']",slayer,m
+anachronox,0.0,"['puzzle', 'role-playing (rpg)']",['science fiction'],id tech 2,t
+mdk2,0.0,"['shooter', 'platform', 'puzzle', 'adventure']","['action', 'science fiction', 'comedy']",omen engine,t
+sherlock holmes: the awakened,0.0,"['puzzle', 'adventure', 'indie']","['action', 'fantasy', 'horror', 'mystery']",unreal engine,m
+tactical ops: assault on terror,0.0,['shooter'],['action'],unreal engine,m
+world in conflict: soviet assault,0.0,"['real time strategy (rts)', 'strategy']","['non-fiction', 'warfare']",masstech,t
+always sometimes monsters,0.21,"['role-playing (rpg)', 'simulator', 'adventure', 'indie']",['drama'],rpg maker vx ace,m
+california games,0.19,['sport'],['action'],j2me,e
+chessmaster 9000,0.22,"['puzzle', 'simulator', 'strategy', 'turn-based strategy (tbs)']",['educational'],chess engine: the king,e
+hotline miami 2: wrong number,1.51,"['shooter', 'indie']",['action'],gamemaker: studio,m
+sanitarium,0.23,"['point-and-click', 'puzzle', 'adventure']","['horror', 'survival']",asylum,t
+tom clancy's rainbow six 3: raven shield,0.35,"['shooter', 'simulator', 'tactical']",['action'],unreal engine,m
+xpand rally,3.35,"['racing', 'simulator', 'sport']",['non-fiction'],chrome engine,e
+140,0.08,"['music', 'platform', 'puzzle', 'strategy', 'indie']",['action'],unity,e
+198x,0.14,"['shooter', 'racing', 'role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure', 'indie', 'arcade']","['action', 'fantasy', 'science fiction']",unity,t
+adios,0.18,"['simulator', 'adventure', 'indie']",['drama'],unreal,m
+aeon drive,1.21,"['platform', 'adventure', 'indie', 'arcade']","['action', 'science fiction']",unity,e10
+afterparty,0.05,"['adventure', 'indie']","['fantasy', 'comedy', 'mystery']",unity,m
+age of empires ii: definitive edition,0.1,"['real time strategy (rts)', 'strategy']","['historical', 'warfare']",genie engine,t
+age of empires ii: hd edition,1.5,"['real time strategy (rts)', 'strategy']","['historical', 'warfare']",genie engine,t
+age of empires iv,1.58,"['real time strategy (rts)', 'strategy']","['historical', 'warfare']",essence engine 5,t
+age of empires: castle siege,0.12,"['real time strategy (rts)', 'strategy']","['action', 'historical', 'warfare']",autodesk,t
+ancestors: the humankind odyssey,1.5,"['role-playing (rpg)', 'adventure', 'indie']","['action', 'survival', 'open world']",unreal engine 4,t
+angels of death,5.7,"['role-playing (rpg)', 'adventure', 'indie']","['action', 'horror']",rpg maker vx,m
+anodyne,200.0,"['platform', 'adventure', 'indie']","['action', 'fantasy']",flixel,m
+anodyne 2: return to dust,12.0,"['platform', 'role-playing (rpg)', 'adventure', 'indie']","['action', 'fantasy']",unity,e10
+anonymous;code,15.0,"['adventure', 'visual novel']",['science fiction'],kaleido adv workshop,m
+assassin's creed valhalla,7.2,"['role-playing (rpg)', 'adventure']","['action', 'historical', 'stealth', 'open world']",anvilnext,m
+assault android cactus,0.36,"['shooter', 'indie', 'arcade']","['action', 'science fiction', 'kids']",unity,e10
+baldur's gate: enhanced edition,0.19,"['role-playing (rpg)', 'strategy', 'adventure']",['fantasy'],infinity engine,t
+baldur's gate: siege of dragonspear,4.3,"['role-playing (rpg)', 'strategy', 'adventure']",['fantasy'],infinity engine,t
+bard's gold,7.3,"['platform', 'role-playing (rpg)', 'indie']","['action', 'fantasy', 'historical']",gamemaker: studio,e
+barrier x,1.24,"['racing', 'indie', 'arcade']",['action'],unity,e
+bastion,6.24,"['role-playing (rpg)', 'adventure', 'indie']","['action', 'fantasy']",microsoft xna,e10
+batora: lost haven,6.6,"['shooter', 'role-playing (rpg)', ""hack and slash/beat 'em up""]","['action', 'fantasy', 'science fiction', 'drama']",unreal engine 4,t
+battle chef brigade,0.22,"['platform', 'puzzle', 'role-playing (rpg)', 'simulator', ""hack and slash/beat 'em up"", 'adventure', 'indie']","['action', 'fantasy']",unity,e10
+battle princess madelyn,1.0,"['platform', 'adventure', 'indie', 'arcade']","['action', 'fantasy']",unity,e10
+battlefield 1943,11.0,['shooter'],"['action', 'historical', 'warfare']",frostbite,t
+bit dungeon ii,1.2,"['role-playing (rpg)', 'adventure', 'indie']",['action'],flashpunk,t
+black book,0.12,"['puzzle', 'role-playing (rpg)', 'strategy', 'adventure', 'indie']","['action', 'horror', 'historical']",unity,t
+black desert,0.29,"['role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy', 'historical', 'sandbox', 'open world']",black desert engine,t
+black the fall,0.38,"['platform', 'puzzle', 'adventure', 'indie']","['action', 'science fiction', 'horror', 'historical', 'stealth']",unity,t
+blackguards,0.35,"['role-playing (rpg)', 'strategy', 'turn-based strategy (tbs)', 'indie']","['action', 'fantasy']",unity,m
+boomerang x,3.3,"['shooter', ""hack and slash/beat 'em up"", 'adventure', 'indie', 'arcade']","['action', 'science fiction']",unity,e10
+borderlands 3,0.12,"['shooter', 'role-playing (rpg)']","['action', 'fantasy', 'comedy', 'open world']",unreal engine 4,m
+bound,0.7,"['platform', 'puzzle', 'adventure']","['action', 'fantasy', 'drama', 'mystery']",custom built engine,e10
+call of duty: vanguard,0.1,['shooter'],"['action', 'warfare']",iw engine,m
+call of the sea,1.0,"['puzzle', 'adventure', 'indie']","['historical', 'mystery']",unreal engine 4,t
+chroma squad,0.45,"['role-playing (rpg)', 'simulator', 'strategy', 'turn-based strategy (tbs)', 'adventure', 'indie']","['action', 'fantasy', 'comedy']",unity,t
+chromagun,0.02,"['shooter', 'puzzle', 'adventure', 'indie', 'arcade']","['action', 'science fiction', 'comedy']",unity,e10t
+chronos: before the ashes,0.2,"['role-playing (rpg)', 'adventure', 'arcade']","['action', 'fantasy', 'mystery']",unreal engine 4,t
+cinders,3.0,"['role-playing (rpg)', 'adventure', 'indie', 'visual novel']","['fantasy', 'historical', 'drama', 'mystery']",gamemaker: studio,t
+circuit superstars,1.0,"['racing', 'simulator', 'sport', 'arcade']",['action'],unity3d,e
+citadel: forged with fire,0.01,"['shooter', 'role-playing (rpg)', 'adventure', 'indie']","['action', 'fantasy', 'sandbox']",unreal engine,t
+cities: skylines ii,0.5,"['simulator', 'strategy']",['sandbox'],unity,e
+cosmic star heroine,50.0,"['role-playing (rpg)', 'adventure', 'indie']","['fantasy', 'science fiction']",unity,t
+cosmonious high,10.0,"['role-playing (rpg)', 'simulator', 'adventure']","['action', 'comedy', 'sandbox']",unity,e10
+counter-strike 2,0.25,"['shooter', 'tactical']","['action', 'warfare']",source 2,m
+crackdown 3,0.28,['shooter'],"['action', 'science fiction', 'open world']",unreal engine,m
+crash bandicoot 4: it's about time,20.0,['platform'],"['action', 'fantasy', 'science fiction', 'comedy']",unreal engine 4,e10
+dandara,5.0,"['platform', 'adventure', 'indie', 'arcade']","['action', 'fantasy']",unity,e10
+deathloop,0.22,"['shooter', 'adventure']","['action', 'science fiction', 'stealth']",void engine,m
+deathtrap,0.12,"['role-playing (rpg)', 'strategy', 'adventure', 'indie']",['action'],coretech 3,m
+decay of logos,1.0,"['role-playing (rpg)', 'adventure', 'indie']","['action', 'fantasy', 'open world']",unity,t
+deep rock galactic,2.5,"['shooter', 'adventure', 'indie']","['action', 'science fiction']",unreal engine 4,t
+deliver us the moon,0.5,"['simulator', 'adventure', 'indie']","['action', 'science fiction', 'survival', 'mystery']",unreal engine,t
+dirt 5,5.05,"['racing', 'simulator', 'sport', 'adventure']",['action'],ego engine,e
+disc jam,0.3,"['sport', 'indie', 'arcade']","['action', 'party']",unreal engine,e
+dragon ball z: kakarot,0.7,"['role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy', 'science fiction']",unreal engine 4,t
+draugen,0.73,"['puzzle', 'adventure', 'indie']","['action', 'fantasy', 'horror', 'historical', 'mystery']",unreal engine 4,m
+eastward,0.5,"['role-playing (rpg)', 'adventure', 'indie']","['action', 'science fiction']",moai,t
+edengate: the edge of life,0.05,"['puzzle', 'adventure']","['drama', 'mystery']",unreal engine 4,t
+eiyuden chronicle: rising,5.0,"['role-playing (rpg)', 'adventure', 'indie']","['action', 'fantasy']",unity,e10
+exoprimal,0.13,"['shooter', ""hack and slash/beat 'em up""]","['action', 'science fiction']",re engine,m
+f1 2021,52.5,"['racing', 'simulator', 'sport']",['action'],ego engine,e
+f1 manager 2022,0.12,"['racing', 'simulator', 'sport', 'strategy']",['business'],unreal engine,e
+fable anniversary,1.0,"['role-playing (rpg)', 'adventure']","['action', 'fantasy', 'historical', 'comedy', 'open world']",unreal engine,m
+fifa 21,4.5,"['simulator', 'sport']",['non-fiction'],frostbite,e
+fifa 22,1.0,"['simulator', 'sport']","['action', 'non-fiction']",frostbite,e
+fighting ex layer,0.14,"['fighting', 'arcade']",['action'],unreal engine,t
+figment,2.0,"['music', 'platform', 'puzzle', 'adventure', 'indie']","['action', 'fantasy', 'comedy']",unity,e10
+final fantasy vii remake intergrade,2.0,"['role-playing (rpg)', 'adventure']","['action', 'fantasy', 'science fiction']",unreal engine,t
+forspoken,1.0,"['role-playing (rpg)', 'adventure']","['action', 'fantasy', 'open world']",luminous studio,m
+fox n forests,0.02,"['platform', 'role-playing (rpg)', 'adventure', 'indie', 'arcade']","['action', 'fantasy']",unity,e10
+gears 5,0.06,"['shooter', 'adventure']",['action'],unreal engine 4,m
+gears tactics,0.27,"['strategy', 'turn-based strategy (tbs)', 'tactical']","['action', 'warfare']",unreal engine 4,m
+gelly break,8.0,"['platform', 'puzzle', 'adventure', 'arcade']",['action'],unreal 4,e
+generation zero,4.0,"['shooter', 'adventure']","['action', 'open world']",apex,t
+genesis,0.97,"['strategy', 'moba']","['action', 'science fiction']",unreal 4,t
+genesis alpha one,11.0,"['shooter', 'role-playing (rpg)', 'simulator', 'adventure', 'indie']","['action', 'science fiction', 'survival']",unreal engine,m
+genshin impact,0.18,"['role-playing (rpg)', 'adventure']","['action', 'fantasy', 'open world']",unity,t
+geometry dash,0.15,"['music', 'platform', 'adventure', 'indie', 'arcade']","['action', 'science fiction']",cocos2d-x,e
+georifters,1.0,"['platform', 'puzzle', 'adventure', 'indie']","['action', 'party']",unreal engine 4,e
+greedfall,0.12,"['role-playing (rpg)', 'strategy', 'adventure']","['action', 'fantasy', 'mystery']",silk engine,m
+grid legends,0.13,"['racing', 'simulator', 'sport']",['action'],ego engine,e10
+grime,57.7,"['platform', 'role-playing (rpg)', 'adventure', 'indie']","['action', 'fantasy']",unity3d,t
+headliner: novinews,1.0,"['role-playing (rpg)', 'simulator', 'adventure', 'indie', 'visual novel']",['educational'],unity3d,t
+heart of the woods,1.5,"['adventure', 'indie', 'visual novel']","['fantasy', 'mystery', 'romance']",ren'py visual novel engine,m
+hello neighbor 2,32.7,"['puzzle', 'strategy', 'adventure', 'indie']","['action', 'horror', 'stealth']",unreal engine 4,e10
+ion fury,0.1,"['shooter', 'indie']","['action', 'science fiction']",build,m
+island saver,0.1,"['shooter', 'adventure']","['action', 'educational', 'kids', 'open world']",unity,e10
+katana zero,0.35,"['platform', 'strategy', 'adventure', 'indie', 'arcade']",['action'],custom built engine,m
+kena: bridge of spirits,3.0,"['adventure', 'indie']","['action', 'fantasy']",unreal engine 4,t
+kentucky route zero: tv edition,0.56,"['point-and-click', 'adventure', 'indie']","['thriller', 'drama', 'mystery']",unity,t
+kerbal space program,0.03,"['simulator', 'indie']","['science fiction', 'sandbox', 'educational', 'open world']",unity,e
+lornsword winter chronicle,0.3,"['real time strategy (rts)', 'strategy', 'indie']","['action', 'fantasy', 'warfare']",unity3d,t
+lost ark,0.03,"['role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure']","['action', 'fantasy']",unreal engine 3,m
+lost ember,1.5,"['adventure', 'indie']","['action', 'fantasy']",unreal engine 4,e10
+lost in random,0.1,"['role-playing (rpg)', 'adventure']","['action', 'fantasy']",unity,e10
+nickelodeon all-star brawl,7.5,"['fighting', 'arcade']","['action', 'comedy', 'kids', 'party']",unity,e10
+nidhogg 2,1.4,"['fighting', 'indie', 'arcade']","['action', 'party']",gamemaker: studio,t
+night in the woods,4.0,"['platform', 'adventure', 'indie']","['fantasy', 'drama']",unity,t
+natural selection 2,12.0,"['shooter', 'puzzle', 'real time strategy (rts)', 'strategy', 'indie']","['action', 'science fiction', 'horror', 'survival']",spark,m
+nba 2k21,4.0,"['simulator', 'sport']","['action', 'business', 'non-fiction']",eco-motion engine,e
+paladins,0.16,"['shooter', 'strategy']","['action', 'fantasy', 'science fiction']",unreal engine 3,t
+pan-pan,4.2,"['puzzle', 'adventure', 'indie']",['fantasy'],unity,e10
+pankapu,2.3,"['platform', 'role-playing (rpg)', 'adventure', 'indie']","['action', 'fantasy']",unity,e
+"papers, please",0.28,"['point-and-click', 'puzzle', 'simulator', 'indie']",['thriller'],openfl,m
+pillars of eternity: complete edition,0.14,"['role-playing (rpg)', 'strategy', 'adventure', 'indie']",['fantasy'],unity,m
+pixel piracy,13.97,"['platform', 'role-playing (rpg)', 'simulator', 'strategy', 'adventure', 'indie']","['action', 'sandbox', 'open world']",unity,t
+prodeus,0.18,"['shooter', 'adventure', 'indie']","['action', 'science fiction', 'horror']",unity,m
+real boxing,55.0,"['fighting', 'sport']",['action'],unreal engine,t
+rebel galaxy outlaw,1.0,"['shooter', 'role-playing (rpg)', 'adventure', 'indie']","['action', 'science fiction']",ogre,t
+recompile,0.24,"['shooter', 'platform', 'adventure', 'indie']","['action', 'science fiction']",unity 2019,t
+rick and morty: virtual rick-ality,0.6,"['puzzle', 'simulator', 'adventure', 'indie']","['action', 'science fiction', 'comedy', 'sandbox']",unity,m
+riddled corpses ex,1.0,"['shooter', 'role-playing (rpg)', 'adventure', 'indie', 'arcade']",['action'],game maker studio,t
+riders republic,4.0,"['racing', 'simulator', 'sport']","['action', 'open world']",ubisoft anvil,t
+roots of pacha,0.12,"['role-playing (rpg)', 'simulator', 'indie']","['sandbox', 'romance']",unity3d,rp
+ruiner,4.1,"['shooter', 'strategy', 'adventure', 'indie']","['action', 'science fiction']",unreal engine,m
+scorn,5.0,"['puzzle', 'adventure', 'indie']","['action', 'horror']",unreal engine 4,m
+scott pilgrim vs. the world: the game - complete edition,1.65,"['fighting', ""hack and slash/beat 'em up"", 'adventure']","['action', 'comedy']",oynx game solutions,t
+scrap garden,0.53,"['platform', 'puzzle', 'adventure', 'indie']","['action', 'science fiction']",unity,e
+screencheat,0.23,"['shooter', 'indie']","['action', 'comedy', 'party']",unity,e10t
+sea of solitude,3.0,"['adventure', 'indie']","['action', 'fantasy', 'drama']",unity 2018,t
+sea of stars,0.11,"['role-playing (rpg)', 'turn-based strategy (tbs)', 'adventure', 'indie']","['fantasy', 'open world']",unity,e10
+sherlock holmes: chapter one,0.6,"['adventure', 'indie']","['action', 'thriller', 'open world', 'mystery']",unreal engine,m
+shin megami tensei v,3.18,"['role-playing (rpg)', 'turn-based strategy (tbs)', 'adventure']",['fantasy'],unreal engine,m
+shoppe keep,1.5,"['role-playing (rpg)', 'simulator', 'strategy', 'adventure', 'indie']","['historical', 'comedy', 'business', 'sandbox']",unity,t
+sniper elite iii: ultimate edition,0.2,"['shooter', 'simulator', 'tactical', 'adventure']","['action', 'historical', 'stealth', 'warfare']",asura engine,m
+sniper elite vr,4.0,"['shooter', 'adventure']","['action', 'warfare']",asura engine,m
+sniper ghost warrior contracts 2,4.58,"['shooter', 'tactical']","['action', 'historical', 'stealth', 'warfare']",cryengine v,m
+so many me,0.2,"['platform', 'puzzle', 'strategy', 'indie']","['action', 'fantasy']",unity,e
+spellbreak,0.33,"['shooter', 'role-playing (rpg)', 'adventure']",['action'],unreal engine,t
+starfield,0.25,"['shooter', 'role-playing (rpg)', 'adventure']","['action', 'science fiction', 'sandbox', 'open world']",creation engine 2,m
+starpoint gemini warlords,0.26,"['real time strategy (rts)', 'role-playing (rpg)', 'simulator', 'strategy', 'tactical', 'indie']","['action', 'science fiction', 'sandbox', 'open world', 'warfare', '4x (explore, expand, exploit, and exterminate)']",whale 2,t
+steamworld quest: hand of gilgamech,0.03,"['role-playing (rpg)', 'strategy', 'turn-based strategy (tbs)', 'adventure']","['fantasy', 'science fiction']",custom built engine,e10
+summertime madness,0.44,"['puzzle', 'adventure', 'indie']","['kids', 'mystery']",unity,e
+sundered,0.22,"['platform', 'adventure', 'indie']","['action', 'fantasy', 'horror']",unity,e10
+syberia: the world before,11.64,"['point-and-click', 'puzzle', 'adventure']",['mystery'],unity,t
+tacoma,0.0,"['adventure', 'indie']","['science fiction', 'drama', 'mystery']",unity,m
+tales from the borderlands,0.43,"['point-and-click', 'puzzle', 'adventure']","['action', 'science fiction', 'comedy']",telltale tool,m
+tales of arise,44.5,"['role-playing (rpg)', 'adventure']","['action', 'fantasy']",unreal engine 4,t
+the almost gone,2.0,"['point-and-click', 'puzzle', 'simulator', 'adventure', 'indie']","['fantasy', 'mystery']",unity 2017,t
+the aquatic adventure of the last human,0.63,"['shooter', 'adventure', 'indie']","['action', 'survival']",gamemaker: studio,t
+the artful escape,18.0,"['music', 'platform', 'adventure', 'indie']","['action', 'science fiction']",unreal engine 4,e10
+the eyes of ara,0.15,"['point-and-click', 'puzzle', 'adventure', 'indie']",['mystery'],unity,e
+the falconeer,0.26,"['shooter', 'role-playing (rpg)', 'simulator', 'adventure', 'indie']","['action', 'fantasy', 'open world']",unity3d,t
+the flame in the flood,0.01,"['adventure', 'indie']","['action', 'survival']",unreal engine,t
+the forest,0.11,"['puzzle', 'simulator', 'adventure', 'indie']","['action', 'horror', 'survival', 'open world']",unity,m
+the forgotten city,0.24,"['role-playing (rpg)', 'adventure', 'indie']","['fantasy', 'historical', 'drama', 'mystery']",unreal engine 4,t
+the great ace attorney chronicles,20.57,"['puzzle', 'adventure', 'visual novel']","['historical', 'mystery']",mt framework,t
+the medium,0.03,['adventure'],"['action', 'horror', 'thriller', 'mystery']",unreal engine 4,m
+the murder of sonic the hedgehog,0.14,"['point-and-click', 'simulator', 'indie', 'visual novel']",['mystery'],unity 2021,e
+the next penelope,1.0,"['shooter', 'racing', 'adventure', 'indie', 'arcade']","['action', 'science fiction']",construct 2,e
+the occupation,1.0,"['adventure', 'indie']","['thriller', 'stealth', 'mystery']",unreal engine,t
+the wardrobe,2.81,"['point-and-click', 'adventure', 'indie']",['comedy'],unity,m
+the way,0.38,"['platform', 'puzzle', 'adventure', 'indie']","['action', 'science fiction']",custom built engine,t
+thea: the awakening,2.4,"['role-playing (rpg)', 'simulator', 'strategy', 'turn-based strategy (tbs)', 'adventure', 'indie', 'card & board game']","['fantasy', 'survival', '4x (explore, expand, exploit, and exterminate)']",unity,t
+theseus,1.9,"['adventure', 'indie']",['action'],unreal engine 4,t
+they bleed pixels,10.0,"['platform', 'puzzle', ""hack and slash/beat 'em up"", 'adventure', 'indie', 'arcade']","['action', 'horror']",xna game studio,t
+tony hawk's pro skater hd,1.0,"['sport', 'arcade']",['action'],unreal engine,t
+torchlight iii,1.0,"['role-playing (rpg)', 'adventure', 'indie']","['action', 'fantasy']",unreal engine 4,t
+tunic,0.01,"['puzzle', 'role-playing (rpg)', 'adventure', 'indie']","['action', 'fantasy']",unity,e10
+turmoil,0.14,"['simulator', 'strategy', 'indie']",['business'],gamemaker: studio,e
+turnip boy commits tax evasion,0.21,"['puzzle', 'role-playing (rpg)', 'adventure', 'indie']","['action', 'fantasy', 'comedy']",unity,e10
+valheim,1.0,"['role-playing (rpg)', 'adventure', 'indie']","['action', 'survival']",unity,t
+valiant hearts: the great war,2.2,"['platform', 'puzzle', 'adventure']","['historical', 'educational', 'warfare']",ubiart framework,t
+valorant,0.0,"['shooter', 'tactical']","['action', 'fantasy', 'science fiction']",unreal engine 4,t
+vambrace: cold soul,0.18,"['role-playing (rpg)', 'strategy', 'turn-based strategy (tbs)', 'adventure', 'indie']",['fantasy'],unity,t
+wasteland 3,0.1,"['role-playing (rpg)', 'strategy', 'turn-based strategy (tbs)', 'tactical', 'adventure']","['action', 'science fiction', 'survival']",unity,m
+wo long: fallen dynasty,0.17,"['role-playing (rpg)', 'adventure']","['action', 'fantasy']",katana engine,m
+wolcen: lords of mayhem,0.25,"['role-playing (rpg)', ""hack and slash/beat 'em up"", 'adventure', 'indie']","['action', 'fantasy', 'horror', 'historical']",cryengine,m
+wolfenstein: cyberpilot,5.0,"['shooter', 'simulator']",['action'],id tech 6,m
+wolfenstein: youngblood,0.01,"['shooter', 'adventure']","['action', 'science fiction']",id tech 6,m
