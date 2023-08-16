@@ -1,5 +1,5 @@
 # Analyzing Video Game Sales and Factors Influencing Success for Indie Developers
- My data science project aims to provide valuable insights for indie game developers by analyzing video game sales and factors influencing success. By examining attributes such as genre, age rating, critic ratings, game engine used, multiplayer modes or single player modes, platforms, themes, and ports, this project seeks to uncover patterns and factors that impact game success and profitability. By focusing on these insights, indie developers can gain a better understanding of market trends, identify target audiences, and make informed decisions to maximize their chances of success in the competitive gaming industry.
+ My data science project aims to provide valuable insights for indie game developers by analyzing video game sales and factors influencing success. By examining attributes such as genre, age rating, game engine used, and themes. This project seeks to uncover patterns and factors that impact game success and profitability. By focusing on these insights, indie developers can gain a better understanding of market trends, identify target audiences, and make informed decisions to maximize their chances of success in the competitive gaming industry.
 
  Instructions:
 
